@@ -2,7 +2,7 @@
 
   
 
-![Overview](https://github.com/Malware-Hunter/SF23-AMExplorer/blob/main/OVERVIEW.md)
+[AMExplorer Overview](https://github.com/Malware-Hunter/SF23-AMExplorer/blob/main/OVERVIEW.md)
 
 
 ## Clonning the GitHub repository
