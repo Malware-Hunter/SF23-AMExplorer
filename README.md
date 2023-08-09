@@ -2,7 +2,7 @@
 
   
 
-![enter image description here](https://github.com/Malware-Hunter/dataset-build/blob/main/images/amexplorer.jpeg)
+![enter image description here](https://github.com/Malware-Hunter/AMExplorer/blob/main/images/amexplorer.jpeg)
 
   
 
@@ -28,7 +28,7 @@ This script will handle the installation of necessary dependencies, extract the 
 
   
 
-Please make sure you have the appropriate permissions and prerequisites, such as Python 3 and `pip`, to run the automated test successfully. Additionally, ensure that the repository contains the necessary files, including `tool_test.zip` and `adbuilder_dataset.py`.
+Please make sure you have the appropriate permissions and prerequisites, such as Python 3 and `pip`, to run the automated test successfully. Additionally, ensure that the repository contains the necessary files, including `tool_test.zip` and `amexplorer.py`.
 
   
 
@@ -176,7 +176,7 @@ Generate All Dataset Types
 
 **--output-dir [PATH]**
 
-Dataset Output Directory (Default: 'adb_output')
+Dataset Output Directory (Default: 'outputs')
 
   
 
@@ -244,7 +244,7 @@ To generate all datasets, use the following command:
 
 ```
 
-python3 adbuilder_dataset.py --dataset-type-all --androguard-features androguard/features --androguard-metadata androguard/metadata --virustotal-metadata virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output
+python3 amexplorer.py --dataset-type-all --androguard-features androguard/features --androguard-metadata androguard/metadata --virustotal-metadata virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output
 
 ```
 
@@ -260,7 +260,7 @@ To generate the dataset metadata, use the following command:
 
 ```
 
-python3 adbuilder_dataset.py --dataset-type metadata -agf androguard/features -agm androguard/metadata -vtm virustotal -azm androzoo/selected_n_1200.csv --output-dir output
+python3 amexplorer.py --dataset-type metadata -agf androguard/features -agm androguard/metadata -vtm virustotal -azm androzoo/selected_n_1200.csv --output-dir output
 
 ```
 
@@ -272,7 +272,7 @@ OR:
 
 ```
 
-python3 adbuilder_dataset.py --dataset-type metadata --androguard-features androguard/features --androguard-metadata androguard/metadata --virustotal-metadata virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output
+python3 amexplorer.py --dataset-type metadata --androguard-features androguard/features --androguard-metadata androguard/metadata --virustotal-metadata virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output
 
 ```
 
@@ -288,7 +288,7 @@ To generate the dataset with binary data, use the following command:
 
 ```
 
-python3 adbuilder_dataset.py --dataset-type binary -md output\metadata.csv -th 5 --output-dir output
+python3 amexplorer.py --dataset-type binary -md output\metadata.csv -th 5 --output-dir output
 
 ```
 
@@ -300,7 +300,7 @@ OR:
 
 ```
 
-python3 adbuilder_dataset.py --dataset-type binary --metadata-dataset output\metadata.csv --threshold 5 --output-dir output
+python3 amexplorer.py --dataset-type binary --metadata-dataset output\metadata.csv --threshold 5 --output-dir output
 
 ```
 
@@ -316,7 +316,7 @@ To generate the dataset with discrete data, use the following command:
 
 ```
 
-python3 adbuilder_dataset.py --dataset-type discrete -md output\metadata.csv -th 5 --output-dir output
+python3 amexplorer.py --dataset-type discrete -md output\metadata.csv -th 5 --output-dir output
 
 ```
 
@@ -326,7 +326,7 @@ OR:
 
 ```
 
-python3 adbuilder_dataset.py --dataset-type discrete --metadata-dataset output\metadata.csv --threshold 5 --output-dir output
+python3 amexplorer.py --dataset-type discrete --metadata-dataset output\metadata.csv --threshold 5 --output-dir output
 
 ```
 ## 🖱️ Test Environment
