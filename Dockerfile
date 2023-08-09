@@ -1,6 +1,10 @@
 FROM python:3.8
 
-RUN apt update
+ARG DEBIAN_FRONTEND=noninteractive
+ARG DEBCONF_NOWARNINGS=yes
+
+RUN apt-get update -qq
+RUN apt-get install -y vim
 RUN pip install --upgrade pip
 
 WORKDIR /AMExplorer
