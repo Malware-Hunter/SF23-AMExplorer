@@ -17,7 +17,7 @@ python3 amexplorer.py --dataset-type-all \
     --androguard-metadata metadata/androguard/metadata \
     --virustotal-metadata metadata/virustotal \
     --androzoo-metadata metadata/androzoo/androzoo_metadata.csv \
-    --output-dir outputs
+    --output-dir output_amexplorer
 
 echo "" 
 echo "done."
