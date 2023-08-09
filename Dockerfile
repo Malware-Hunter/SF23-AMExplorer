@@ -1,24 +1,16 @@
-# Use uma imagem base como ponto de partida
 FROM python:3.8
 
-# Defina o diretório de trabalho dentro do contêiner
+RUN apt update
+RUN pip install --upgrade pip
+
 WORKDIR /AMExplorer
 
-# Copie os arquivos específicos para o diretório de trabalho do contêiner
-COPY adbuilder_dataset.py utils.py tool_test.zip run_test_tool.sh /AMExplorer/
+COPY amexplorer.py utils.py scripts/run_app_in_docker.sh requirements.txt /AMExplorer/
+COPY metadata /AMExplorer/metadata
 
-# Converter o script para formato Unix (remover os caracteres \r)
-RUN sed -i 's/\r//' run_test_tool.sh
+RUN chmod +x run_app_in_docker.sh
 
-# Dar permissões de execução ao script
-RUN chmod +x run_test_tool.sh
+RUN pip install -r requirements.txt 
 
-# Instale as dependências
-RUN pip install pandas termcolor
-
-# Exponha a porta (caso seu aplicativo precise)
-# EXPOSE 8080
-
-# Comando para executar o seu script
-CMD ["bash", "run_test_tool.sh"]
+CMD ["./run_app_in_docker.sh"]
 
