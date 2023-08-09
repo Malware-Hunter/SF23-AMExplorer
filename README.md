@@ -44,26 +44,25 @@ git clone https://github.com/Malware-Hunter/SF23-AMExplorer.git
 
 ```
 
-  
 
-## ✅ Step 2: Navigate to the repository directory:
+## ✅ Step 2: Run the app or docker demo script:
 
 ```
-
 cd SF23-AMExplorer
+```
+
+Option 1 (script will install requirements in your system):
+```
+./run_demo_app.sh
 
 ```
 
-  
-
-## ✅ Step 3: Run the script for automated testing:
+Option 2: script will just download and execute the docker image sf23/amexplorer:latest from (hub.docker.com)
+```
+./run_demo_docker.sh
 
 ```
-
-./run_test_tool.sh
-
-```
-**Datasets will be generated in a directory called output**
+**Datasets will be generated in the directory called outputs**
   
 
 ## ⚙️ Running the tool with Docker
