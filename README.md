@@ -51,13 +51,13 @@ git clone https://github.com/Malware-Hunter/SF23-AMExplorer.git
 cd SF23-AMExplorer
 ```
 
-Option 1 (script will install requirements in your system):
+Option 1 (script will install requirements in your system and run amexplorer.py app):
 ```
 ./run_demo_app.sh
 
 ```
 
-Option 2: script will just download and execute the docker image sf23/amexplorer:latest from (hub.docker.com)
+Option 2: script will just download and execute the docker image sf23/amexplorer:latest from [hub.docker.com](hub.docker.com)
 ```
 ./run_demo_docker.sh
 
