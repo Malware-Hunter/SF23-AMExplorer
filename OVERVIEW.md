@@ -15,12 +15,12 @@ This repository houses AMExplorer, an innovative tool for generating datasets. T
 ## Directories and files:
 These metadata files are generated from the AMGenerator tool [AMGenerator tool](https://github.com/Malware-Hunter/SF23-AMGenerator/blob/main/OVERVIEW.md)
 - androzoo: Contains a list of apps selected from AndroZoo.
-  - (1) CSV File: CSV file containing APK information.
+  - ➊ CSV File: CSV file containing APK information.
 - androguard: Contains features and metadata extracted using the AndroGuard library.
-  - (2) features: JSON files representing extracted features.
-  - (3) metadata: JSON files containing metadata information.
+  - ➋ features: JSON files representing extracted features.
+  - ➌ metadata: JSON files containing metadata information.
 - virustotal: Contains APKs scanners to detect malware and other security breaches.
-  - (4) JSON files: with scan reports from VirusTotal.
+  - ➍ JSON files: with scan reports from VirusTotal.
 
 File Tree:
 ```
