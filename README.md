@@ -1,4 +1,4 @@
-# AMExplore
+# AMExplorer
 
   
 
@@ -10,7 +10,7 @@
 
   
 
-This repository houses AMExplore, an innovative tool for generating datasets. Through the integration of metadata from different sources, such as AndroGuard, which makes it possible to extract information such as application names, permissions and API calls, along with obtaining data from APKs from AndroZoo and scan reports from VirusTotal, this tool produces three distinct types of datasets. These sets encompass comprehensive metadata about applications, binary and discrete information, all built to be used in a variety of contexts, from machine learning enhancement to malware analysis.
+This repository houses AMExplorer, an innovative tool for generating datasets. Through the integration of metadata from different sources, such as AndroGuard, which makes it possible to extract information such as application names, permissions and API calls, along with obtaining data from APKs from AndroZoo and scan reports from VirusTotal, this tool produces three distinct types of datasets. These sets encompass comprehensive metadata about applications, binary and discrete information, all built to be used in a variety of contexts, from machine learning enhancement to malware analysis.
 
   
   
@@ -103,7 +103,7 @@ Execute the following command to build the Docker image from the Dockerfile:
   
 
 ```bash
-docker  build  -t  AMExplorer  .
+docker  build  -t  sf23/amexplorer:latest  .
 ```
 
   
@@ -117,26 +117,12 @@ Start an interactive terminal inside the Docker container using the following co
   
 
 ```bash
-docker  run  -it  AMExplorer  /bin/bash
+docker  run  -it  sf23/amexplorer  /bin/bash
 ```
 
   
 
-## ✅ Step 3: Execute the Script
-
-  
-
-Inside the container, execute the execution script with the following command:
-
-  
-
-```bash
-./run_test_tool.sh
-```
-
-  
-
-## ✅ Step 4: Access the Output Directory
+## ✅ Step 3: Access the Output Directory
 
   
 
@@ -145,7 +131,7 @@ After the script execution, you can access the output directory using the follow
   
 
 ```bash
-cd  output
+ls outputs
 ```
 
   
