@@ -701,7 +701,7 @@ def parse_args(argv):
         help = f'Type of Dataset To Be Generated. Choices: {dataset_types}', required = True)
     '''
     parser_options.add_argument('--output-dir', metavar = 'PATH',
-        type = str, default = 'outputs', help = 'Dataset Output Directory (Default: \'adb_output\')')
+        type = str, default = 'output_amexplorer', help = 'Dataset Output Directory (Default: \'output_amexplorer\')')
     parser_options.add_argument('--prefix', metavar = 'PREFIX',
         type = str, help = 'Prefix To Be Used in Output Dataset')
 
