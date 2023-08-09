@@ -1,0 +1,7 @@
+{
+    "SHA256": "E196467F94EB7E9BA0EE391050EFB275F703D01E815DE1ED4F1C58E6E4F84C5C",
+    "APP_NAME": "Rock Music",
+    "PACKAGE": "com.appsamimanera.rockmusic",
+    "TARGET_API": 26,
+    "MIN_API": 21
+}

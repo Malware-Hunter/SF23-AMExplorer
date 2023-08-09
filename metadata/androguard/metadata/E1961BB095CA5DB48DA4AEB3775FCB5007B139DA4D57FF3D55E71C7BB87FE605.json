@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1961BB095CA5DB48DA4AEB3775FCB5007B139DA4D57FF3D55E71C7BB87FE605",
+    "APP_NAME": "Wallphone Wallpapers",
+    "PACKAGE": "com.wallphone.wallpaper",
+    "TARGET_API": 30,
+    "MIN_API": 22
+}

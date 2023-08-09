@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19635060308083FC2BF0F5F52BC05B34DA28AFC0EFBF757070410ADA7E6EB65",
+    "APP_NAME": "S-Finanzstatus",
+    "PACKAGE": "com.starfinanz.smob.android.sfinanzstatus",
+    "TARGET_API": 8,
+    "MIN_API": 3
+}

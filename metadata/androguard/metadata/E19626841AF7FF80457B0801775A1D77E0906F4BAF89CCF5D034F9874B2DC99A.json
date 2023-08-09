@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19626841AF7FF80457B0801775A1D77E0906F4BAF89CCF5D034F9874B2DC99A",
+    "APP_NAME": "ROSALIA piano",
+    "PACKAGE": "com.music.game.rosalia.piano.ConAltura",
+    "TARGET_API": 28,
+    "MIN_API": 17
+}

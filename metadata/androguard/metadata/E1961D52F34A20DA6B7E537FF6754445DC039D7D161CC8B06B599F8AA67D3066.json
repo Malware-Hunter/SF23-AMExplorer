@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1961D52F34A20DA6B7E537FF6754445DC039D7D161CC8B06B599F8AA67D3066",
+    "APP_NAME": "Clock Live Wallpaper",
+    "PACKAGE": "com.clockstyle.analogclock.clocklivewallpaper",
+    "TARGET_API": 33,
+    "MIN_API": 23
+}

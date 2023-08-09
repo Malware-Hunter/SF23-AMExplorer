@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1963331EFC18D3A8422A1AC1F737E432B20A58670E393F05793A7EFF9E01AE9",
+    "APP_NAME": "SkipRoaming",
+    "PACKAGE": "com.skiproaming.dialer",
+    "TARGET_API": 17,
+    "MIN_API": 7
+}

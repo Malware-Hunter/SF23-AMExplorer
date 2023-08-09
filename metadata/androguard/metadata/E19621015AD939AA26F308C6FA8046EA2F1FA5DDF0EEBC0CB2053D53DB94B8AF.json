@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19621015AD939AA26F308C6FA8046EA2F1FA5DDF0EEBC0CB2053D53DB94B8AF",
+    "APP_NAME": "Your Parts",
+    "PACKAGE": "com.yourparts.yourpartsapp",
+    "TARGET_API": 30,
+    "MIN_API": 19
+}

@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1964C7260ABE7F177EB78CA0E58B33FAEAFFCEA6A1D5D3E40657F9428D15CA1",
+    "APP_NAME": "Resistor Quiz",
+    "PACKAGE": "com.priantos.resistorquiz",
+    "TARGET_API": 30,
+    "MIN_API": 16
+}

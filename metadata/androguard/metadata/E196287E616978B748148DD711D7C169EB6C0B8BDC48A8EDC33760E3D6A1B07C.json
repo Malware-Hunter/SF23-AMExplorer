@@ -1,0 +1,7 @@
+{
+    "SHA256": "E196287E616978B748148DD711D7C169EB6C0B8BDC48A8EDC33760E3D6A1B07C",
+    "APP_NAME": "Emoji Photo Editor",
+    "PACKAGE": "maa.emoji_background_photo_editor.emoticon",
+    "TARGET_API": 30,
+    "MIN_API": 17
+}

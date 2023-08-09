@@ -1,0 +1,7 @@
+{
+    "SHA256": "E196170B1D535AF0172D250923DE69C9E75B7D6C3D0BF1488601A90CAF988B5B",
+    "APP_NAME": "Smart people-brain training",
+    "PACKAGE": "com.aktechnology.mindpuzzel",
+    "TARGET_API": 30,
+    "MIN_API": 20
+}

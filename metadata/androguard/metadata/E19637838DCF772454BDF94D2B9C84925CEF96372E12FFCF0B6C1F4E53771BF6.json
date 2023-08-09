@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19637838DCF772454BDF94D2B9C84925CEF96372E12FFCF0B6C1F4E53771BF6",
+    "APP_NAME": "Plan you day",
+    "PACKAGE": "com.uzlov.note.app",
+    "TARGET_API": 30,
+    "MIN_API": 21
+}

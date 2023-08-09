@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19644FCE018BC54D8C3536972EA3DD536A9F01B59E1643CB99633B468990681",
+    "APP_NAME": "Speaking Practice",
+    "PACKAGE": "com.clloret.speakingpractice",
+    "TARGET_API": 29,
+    "MIN_API": 23
+}

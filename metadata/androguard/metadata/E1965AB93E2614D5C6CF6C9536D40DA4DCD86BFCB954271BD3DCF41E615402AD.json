@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1965AB93E2614D5C6CF6C9536D40DA4DCD86BFCB954271BD3DCF41E615402AD",
+    "APP_NAME": "Calendar",
+    "PACKAGE": "com.ashionapp.calendar",
+    "TARGET_API": 22,
+    "MIN_API": 9
+}

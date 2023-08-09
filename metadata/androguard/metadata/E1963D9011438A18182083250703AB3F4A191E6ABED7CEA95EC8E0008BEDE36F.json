@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1963D9011438A18182083250703AB3F4A191E6ABED7CEA95EC8E0008BEDE36F",
+    "APP_NAME": "xilinua",
+    "PACKAGE": "com.zenoclaw.xilinua",
+    "TARGET_API": 27,
+    "MIN_API": 16
+}

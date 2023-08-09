@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19634180F75B126900BD0C2F4BCC84102DABB7B860D0B2C9BB0107D4EE662DE",
+    "APP_NAME": "Railway Train Simulator Games",
+    "PACKAGE": "com.gp.offroad.hill.trainsimulator",
+    "TARGET_API": 31,
+    "MIN_API": 21
+}

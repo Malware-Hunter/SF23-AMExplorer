@@ -1,0 +1,7 @@
+{
+    "SHA256": "E196540CE06083F96A4E565C558EB21CDCDCAB1E97654FEA58A4EAFFCD7C3B6F",
+    "APP_NAME": "Employee",
+    "PACKAGE": "com.rockers.employee",
+    "TARGET_API": 23,
+    "MIN_API": 15
+}

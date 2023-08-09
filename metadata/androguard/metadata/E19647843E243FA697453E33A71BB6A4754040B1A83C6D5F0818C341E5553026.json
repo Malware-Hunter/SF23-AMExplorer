@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19647843E243FA697453E33A71BB6A4754040B1A83C6D5F0818C341E5553026",
+    "APP_NAME": "Ares Mobile Panic",
+    "PACKAGE": "com.yapyap.ares",
+    "TARGET_API": 28,
+    "MIN_API": 16
+}

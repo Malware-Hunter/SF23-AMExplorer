@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1961C82CF47F17618B00CC582435DDFE320966408D15127B5DA05992F2AAA82",
+    "APP_NAME": "CCC",
+    "PACKAGE": "au.com.catholiccemeteries.android",
+    "TARGET_API": 29,
+    "MIN_API": 23
+}

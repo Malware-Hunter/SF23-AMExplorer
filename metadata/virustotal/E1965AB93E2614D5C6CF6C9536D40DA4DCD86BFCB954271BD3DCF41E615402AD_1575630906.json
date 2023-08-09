@@ -1,0 +1,1318 @@
+{
+   "data": {
+      "attributes": {
+         "type_description": "Android",
+         "vhash": "91359f7d34fce389d83e81db8620cc17",
+         "type_tags": [
+            "executable",
+            "mobile",
+            "android",
+            "apk"
+         ],
+         "names": [
+            "qukuairili_dijiu.com.apk",
+            "qukuairili.3987.apk",
+            "qkrl.apk"
+         ],
+         "last_modification_date": 1626095552,
+         "type_tag": "android",
+         "times_submitted": 5,
+         "total_votes": {
+            "harmless": 0,
+            "malicious": 0
+         },
+         "size": 12024753,
+         "popular_threat_classification": {
+            "suggested_threat_label": "trojan.jiagu",
+            "popular_threat_category": [
+               {
+                  "count": 3,
+                  "value": "trojan"
+               }
+            ],
+            "popular_threat_name": [
+               {
+                  "count": 2,
+                  "value": "jiagu"
+               }
+            ]
+         },
+         "last_submission_date": 1575630906,
+         "last_analysis_results": {
+            "Bkav": {
+               "category": "undetected",
+               "engine_name": "Bkav",
+               "engine_version": "1.3.0.9899",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Lionic": {
+               "category": "undetected",
+               "engine_name": "AegisLab",
+               "engine_version": "4.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "MicroWorld-eScan": {
+               "category": "undetected",
+               "engine_name": "MicroWorld-eScan",
+               "engine_version": "14.0.297.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "FireEye": {
+               "category": "undetected",
+               "engine_name": "FireEye",
+               "engine_version": "29.7.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "CAT-QuickHeal": {
+               "category": "undetected",
+               "engine_name": "CAT-QuickHeal",
+               "engine_version": "14.00",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "McAfee": {
+               "category": "undetected",
+               "engine_name": "McAfee",
+               "engine_version": "6.0.6.653",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Malwarebytes": {
+               "category": "undetected",
+               "engine_name": "Malwarebytes",
+               "engine_version": "2.1.1.1115",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Zillya": {
+               "category": "malicious",
+               "engine_name": "Zillya",
+               "engine_version": "2.0.0.3968",
+               "result": "Trojan.Ewind.Android.19",
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Paloalto": {
+               "category": "type-unsupported",
+               "engine_name": "Paloalto",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Sangfor": {
+               "category": "undetected",
+               "engine_name": "Sangfor",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191031"
+            },
+            "Trustlook": {
+               "category": "undetected",
+               "engine_name": "Trustlook",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Alibaba": {
+               "category": "undetected",
+               "engine_name": "Alibaba",
+               "engine_version": "0.3.0.5",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190527"
+            },
+            "K7GW": {
+               "category": "malicious",
+               "engine_name": "K7GW",
+               "engine_version": "11.81.32751",
+               "result": "Adware ( 005307e21 )",
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "K7AntiVirus": {
+               "category": "undetected",
+               "engine_name": "K7AntiVirus",
+               "engine_version": "11.81.32752",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Invincea": {
+               "category": "type-unsupported",
+               "engine_name": "Invincea",
+               "engine_version": "6.3.6.26157",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190904"
+            },
+            "BitDefenderTheta": {
+               "category": "undetected",
+               "engine_name": "BitDefenderTheta",
+               "engine_version": "7.2.37796.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191204"
+            },
+            "Cyren": {
+               "category": "malicious",
+               "engine_name": "Cyren",
+               "engine_version": "6.2.2.2",
+               "result": "AndroidOS/Trojan.AJTK-8",
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "SymantecMobileInsight": {
+               "category": "malicious",
+               "engine_name": "SymantecMobileInsight",
+               "engine_version": "2.0",
+               "result": "AppRisk:Generisk",
+               "method": "blacklist",
+               "engine_update": "20191030"
+            },
+            "Symantec": {
+               "category": "undetected",
+               "engine_name": "Symantec",
+               "engine_version": "1.11.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "TotalDefense": {
+               "category": "undetected",
+               "engine_name": "TotalDefense",
+               "engine_version": "37.1.62.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Baidu": {
+               "category": "undetected",
+               "engine_name": "Baidu",
+               "engine_version": "1.0.0.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190318"
+            },
+            "TrendMicro-HouseCall": {
+               "category": "undetected",
+               "engine_name": "TrendMicro-HouseCall",
+               "engine_version": "10.0.0.1040",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Avast": {
+               "category": "undetected",
+               "engine_name": "Avast",
+               "engine_version": "18.4.3895.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "ClamAV": {
+               "category": "undetected",
+               "engine_name": "ClamAV",
+               "engine_version": "0.102.1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Kaspersky": {
+               "category": "undetected",
+               "engine_name": "Kaspersky",
+               "engine_version": "15.0.1.13",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "BitDefender": {
+               "category": "undetected",
+               "engine_name": "BitDefender",
+               "engine_version": "7.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "NANO-Antivirus": {
+               "category": "undetected",
+               "engine_name": "NANO-Antivirus",
+               "engine_version": "1.0.134.24859",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "SUPERAntiSpyware": {
+               "category": "undetected",
+               "engine_name": "SUPERAntiSpyware",
+               "engine_version": "5.6.0.1032",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191203"
+            },
+            "APEX": {
+               "category": "type-unsupported",
+               "engine_name": "APEX",
+               "engine_version": "5.92",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191203"
+            },
+            "Tencent": {
+               "category": "undetected",
+               "engine_name": "Tencent",
+               "engine_version": "1.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Ad-Aware": {
+               "category": "undetected",
+               "engine_name": "Ad-Aware",
+               "engine_version": "3.0.5.370",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Emsisoft": {
+               "category": "undetected",
+               "engine_name": "Emsisoft",
+               "engine_version": "2018.12.0.1641",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Comodo": {
+               "category": "undetected",
+               "engine_name": "Comodo",
+               "engine_version": "31808",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "F-Secure": {
+               "category": "undetected",
+               "engine_name": "F-Secure",
+               "engine_version": "12.0.86.52",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "DrWeb": {
+               "category": "undetected",
+               "engine_name": "DrWeb",
+               "engine_version": "7.0.42.9300",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "VIPRE": {
+               "category": "undetected",
+               "engine_name": "VIPRE",
+               "engine_version": "79830",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "TrendMicro": {
+               "category": "undetected",
+               "engine_name": "TrendMicro",
+               "engine_version": "11.0.0.1006",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "McAfee-GW-Edition": {
+               "category": "undetected",
+               "engine_name": "McAfee-GW-Edition",
+               "engine_version": "v2017.3010",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Trapmine": {
+               "category": "type-unsupported",
+               "engine_name": "Trapmine",
+               "engine_version": "3.1.81.800",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190826"
+            },
+            "CMC": {
+               "category": "undetected",
+               "engine_name": "CMC",
+               "engine_version": "1.1.0.977",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190321"
+            },
+            "Sophos": {
+               "category": "undetected",
+               "engine_name": "Sophos",
+               "engine_version": "4.98.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Ikarus": {
+               "category": "malicious",
+               "engine_name": "Ikarus",
+               "engine_version": "0.1.5.2",
+               "result": "Packed.PUA.AndroidOS.Qihoo",
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "F-Prot": {
+               "category": "undetected",
+               "engine_name": "F-Prot",
+               "engine_version": "4.7.1.166",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Jiangmin": {
+               "category": "undetected",
+               "engine_name": "Jiangmin",
+               "engine_version": "16.0.100",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Webroot": {
+               "category": "type-unsupported",
+               "engine_name": "Webroot",
+               "engine_version": "1.0.0.403",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Avira": {
+               "category": "undetected",
+               "engine_name": "Avira",
+               "engine_version": "8.3.3.8",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Fortinet": {
+               "category": "malicious",
+               "engine_name": "Fortinet",
+               "engine_version": "6.2.137.0",
+               "result": "Riskware/Jiagu!Android",
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Antiy-AVL": {
+               "category": "undetected",
+               "engine_name": "Antiy-AVL",
+               "engine_version": "3.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Kingsoft": {
+               "category": "undetected",
+               "engine_name": "Kingsoft",
+               "engine_version": "2013.8.14.323",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Endgame": {
+               "category": "type-unsupported",
+               "engine_name": "Endgame",
+               "engine_version": "3.0.15",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190918"
+            },
+            "Arcabit": {
+               "category": "undetected",
+               "engine_name": "Arcabit",
+               "engine_version": "1.0.0.865",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "ViRobot": {
+               "category": "undetected",
+               "engine_name": "ViRobot",
+               "engine_version": "2014.3.20.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "ZoneAlarm": {
+               "category": "undetected",
+               "engine_name": "ZoneAlarm",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Avast-Mobile": {
+               "category": "undetected",
+               "engine_name": "Avast-Mobile",
+               "engine_version": "191205-00",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191205"
+            },
+            "Microsoft": {
+               "category": "malicious",
+               "engine_name": "Microsoft",
+               "engine_version": "1.1.16500.1",
+               "result": "PUA:Win32/Presenoker",
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "TACHYON": {
+               "category": "undetected",
+               "engine_name": "TACHYON",
+               "engine_version": "2019-12-06.02",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "AhnLab-V3": {
+               "category": "undetected",
+               "engine_name": "AhnLab-V3",
+               "engine_version": "3.16.5.25880",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Acronis": {
+               "category": "type-unsupported",
+               "engine_name": "Acronis",
+               "engine_version": "1.1.1.58",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191205"
+            },
+            "ALYac": {
+               "category": "undetected",
+               "engine_name": "ALYac",
+               "engine_version": "1.1.1.5",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "MAX": {
+               "category": "undetected",
+               "engine_name": "MAX",
+               "engine_version": "2019.9.16.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "VBA32": {
+               "category": "undetected",
+               "engine_name": "VBA32",
+               "engine_version": "4.2.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Cylance": {
+               "category": "type-unsupported",
+               "engine_name": "Cylance",
+               "engine_version": "2.3.1.101",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Zoner": {
+               "category": "undetected",
+               "engine_name": "Zoner",
+               "engine_version": "1.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "ESET-NOD32": {
+               "category": "malicious",
+               "engine_name": "ESET-NOD32",
+               "engine_version": "20465",
+               "result": "a variant of Android/Packed.Jiagu.D potentially unsafe",
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Rising": {
+               "category": "undetected",
+               "engine_name": "Rising",
+               "engine_version": "25.0.0.24",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Yandex": {
+               "category": "malicious",
+               "engine_name": "Yandex",
+               "engine_version": "5.5.2.24",
+               "result": "Trojan.Etecer.bRWx6j.5",
+               "method": "blacklist",
+               "engine_update": "20191205"
+            },
+            "SentinelOne": {
+               "category": "undetected",
+               "engine_name": "SentinelOne",
+               "engine_version": "1.9.0.2431",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191203"
+            },
+            "MaxSecure": {
+               "category": "undetected",
+               "engine_name": "MaxSecure",
+               "engine_version": "1.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191205"
+            },
+            "GData": {
+               "category": "undetected",
+               "engine_name": "GData",
+               "engine_version": "A:25.24187B:26.16899",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "AVG": {
+               "category": "undetected",
+               "engine_name": "AVG",
+               "engine_version": "18.4.3895.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "Cybereason": {
+               "category": "type-unsupported",
+               "engine_name": "Cybereason",
+               "engine_version": "1.2.449",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190616"
+            },
+            "Panda": {
+               "category": "undetected",
+               "engine_name": "Panda",
+               "engine_version": "4.6.4.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            },
+            "CrowdStrike": {
+               "category": "type-unsupported",
+               "engine_name": "CrowdStrike",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190702"
+            },
+            "Qihoo-360": {
+               "category": "undetected",
+               "engine_name": "Qihoo-360",
+               "engine_version": "1.0.0.1120",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20191206"
+            }
+         },
+         "trid": [
+            {
+               "file_type": "Android Package",
+               "probability": 39.0
+            },
+            {
+               "file_type": "SPSS Extension",
+               "probability": 30.4
+            },
+            {
+               "file_type": "Java Archive",
+               "probability": 14.7
+            },
+            {
+               "file_type": "Sweet Home 3D design (generic)",
+               "probability": 10.6
+            },
+            {
+               "file_type": "ZIP compressed archive",
+               "probability": 4.0
+            }
+         ],
+         "sha256": "e1965ab93e2614d5c6cf6c9536d40da4dcd86bfcb954271bd3dcf41e615402ad",
+         "type_extension": "apk",
+         "tags": [
+            "reflection",
+            "apk",
+            "runtime-modules",
+            "contains-elf",
+            "telephony",
+            "android"
+         ],
+         "last_analysis_date": 1575630906,
+         "unique_sources": 4,
+         "first_submission_date": 1552654851,
+         "sha1": "f678281f4625e678d6ae04b2bde3e2da193e65e8",
+         "ssdeep": "196608:lvcn5ygbPdvxjB+UGT2xzly3dRYNUf7ltKaSR2FS+TmWjc:pc5yCPtZBPGSjQdO2ZSIA+Tm",
+         "bundle_info": {
+            "highest_datetime": "2019-02-14 22:21:08",
+            "lowest_datetime": "1980-00-00 00:00:00",
+            "num_children": 2189,
+            "extensions": {
+               "xml": 116,
+               "dex": 1,
+               "gz": 1,
+               "js": 1,
+               "so": 12,
+               "mp3": 1,
+               "png": 382
+            },
+            "file_types": {
+               "XML": 116,
+               "DEX": 1,
+               "unknown": 488,
+               "ELF": 12,
+               "OGG": 1,
+               "PNG": 382
+            },
+            "type": "APK",
+            "uncompressed_size": 13517395
+         },
+         "packers": {
+            "F-PROT": "appended, packed"
+         },
+         "md5": "3d3f17cf11e1474734d6257d7de3bf99",
+         "androguard": {
+            "VTAndroidInfo": 1.41,
+            "AndroidApplicationError": false,
+            "MinSdkVersion": "9",
+            "AndroguardVersion": "3.0-dev",
+            "Activities": [
+               "com.ashionapp.calendar.function.MainActivity",
+               "com.ashionapp.calendar.function.ActStart",
+               "com.ashionapp.calendar.function.welcome.WelcomeActivity",
+               "com.ashionapp.calendar.function.notebook.ActNoteBook",
+               "com.ashionapp.calendar.function.notebook.DayNoteActivity",
+               "com.ashionapp.calendar.common.activity.ActTranslate",
+               "com.ashionapp.calendar.function.more.activity.SetNewsActivity",
+               "com.ashionapp.calendar.common.activity.ActBlessing",
+               "com.ashionapp.calendar.common.activity.ActEditText",
+               "com.ashionapp.calendar.common.activity.ActImgPages",
+               "com.ashionapp.calendar.wxapi.WXEntryActivity",
+               "com.umeng.qq.tencent.AuthActivity",
+               "com.ashionapp.calendar.common.activity.UmPushActivity",
+               "com.aisqk.weather.activity.MainTabActivity",
+               "com.aisqk.weather.activity.SuggestionDressActivity",
+               "com.aisqk.weather.activity.AddCityActivity",
+               "com.aisqk.weather.activity.ManageCityActivity",
+               "com.aisqk.weather.activity.AqiActivity",
+               "com.aisqk.weather.activity.AqiNewActivity",
+               "com.aisqk.weather.activity.AlarmsActivity",
+               "com.aisqk.weather.activity.NewsDetailActivity",
+               "com.aisqk.weather.activity.AlertActivity",
+               "com.aisqk.weather.activity.MeteoroDetailActivity",
+               "com.aisqk.weather.activity.MinuteRainActivity",
+               "com.aisqk.weather.activity.NotifiSetActivity",
+               "com.aisqk.weather.activity.WeatherFeedBackActivity",
+               "com.aisqk.weather.activity.VoiceHelperActivity",
+               "com.aisqk.weather.keepliving.Float.TranslateActivity",
+               "com.aisqk.weather.activity.LifeIndexDetailActivity",
+               "com.aisqk.weather.sdk.activity.WeatherMainAct",
+               "com.aisqk.weather.sdk.activity.StartWeatherActivity",
+               "com.aisqk.weather.activity.WeatherSetActivity",
+               "com.ashionapp.news.MainNewsActivity",
+               "com.ashionapp.news.MainEnActivity",
+               "com.ashionapp.news.NewsDetailActivity",
+               "com.ashionapp.news.StartNewsMainActivity",
+               "com.ashionapp.news.uc.activity.UcNewsDetailActivity",
+               "com.ashionapp.news.uc.activity.UcDiscussDetailActivity",
+               "com.ashionapp.news.uc.activity.ChannelManagerActivity",
+               "com.ashionapp.news.activity.MyCollectionActivity",
+               "com.ashionapp.news.activity.MyHistoryActivity",
+               "com.ashionapp.news.download.DownloadActivity",
+               "com.ashionapp.news.download.DownloadManagerActivity",
+               "com.ashionapp.news.ChangeWebViewTextSizeActivity",
+               "com.ashionapp.news.quickvideo.activity.VideoPlayActivity",
+               "com.ashionapp.news.activity.SearchAct",
+               "com.ashionapp.recommendapp.promotion.PromotionActivity",
+               "com.ashionapp.recommendapp.promotion.PromotionWifiActivity",
+               "com.ashionapp.recommendapp.activity.RecommendAppActivity",
+               "com.ashionapp.recommendapp.activity.WebActivity",
+               "com.vivo.push.sdk.LinkProxyClientActivity",
+               "com.ashionapp.module.feedback.activity.FeedBackActivity",
+               "com.ashionapp.activity.WebDowloadActivity",
+               "com.umeng_social_sdk_res_lib_simplify.activity.WBShareActivity",
+               "com.umeng.socialize.editorpage.ShareActivity",
+               "com.umeng.qq.tencent.AssistActivity",
+               "com.tbruyelle.rxpermissions.ShadowActivity"
+            ],
+            "certificate": {
+               "Subject": {
+                  "DN": "C:\u4e2d\u56fd, CN:AshionFinger, L:\u957f\u6c99, O:\u957f\u6c99\u7231\u5c1a\u795e\u6307\u79d1\u6280\u6709\u9650\u516c\u53f8, ST:\u6e56\u5357, OU:\u957f\u6c99\u7231\u5c1a\u795e\u6307\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                  "C": "\u4e2d\u56fd",
+                  "CN": "AshionFinger",
+                  "L": "\u957f\u6c99",
+                  "O": "\u957f\u6c99\u7231\u5c1a\u795e\u6307\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                  "ST": "\u6e56\u5357",
+                  "OU": "\u957f\u6c99\u7231\u5c1a\u795e\u6307\u79d1\u6280\u6709\u9650\u516c\u53f8"
+               },
+               "validto": "09:28 AM 08/06/2043",
+               "serialnumber": "4f0290cb",
+               "thumbprint": "6b6c5f2a9d3346a4f12d85e8670bb104deab8b21",
+               "validfrom": "09:28 AM 08/12/2018",
+               "Issuer": {
+                  "DN": "C:\u4e2d\u56fd, CN:AshionFinger, L:\u957f\u6c99, O:\u957f\u6c99\u7231\u5c1a\u795e\u6307\u79d1\u6280\u6709\u9650\u516c\u53f8, ST:\u6e56\u5357, OU:\u957f\u6c99\u7231\u5c1a\u795e\u6307\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                  "C": "\u4e2d\u56fd",
+                  "CN": "AshionFinger",
+                  "L": "\u957f\u6c99",
+                  "O": "\u957f\u6c99\u7231\u5c1a\u795e\u6307\u79d1\u6280\u6709\u9650\u516c\u53f8",
+                  "ST": "\u6e56\u5357",
+                  "OU": "\u957f\u6c99\u7231\u5c1a\u795e\u6307\u79d1\u6280\u6709\u9650\u516c\u53f8"
+               }
+            },
+            "AndroidApplication": 1,
+            "RiskIndicator": {
+               "APK": {
+                  "DEX": 1,
+                  "SHARED LIBRARIES": 12
+               },
+               "PERM": {
+                  "PRIVACY": 6,
+                  "NORMAL": 14,
+                  "DANGEROUS": 7,
+                  "INTERNET": 1,
+                  "SIGNATUREORSYSTEM": 1,
+                  "SIGNATURE": 1,
+                  "SIGNATUREORSYSTEMORDEVELOPMENT": 2,
+                  "GPS": 3
+               }
+            },
+            "Services": [
+               "com.ashionapp.receiver.DownloadFileService",
+               "com.aisqk.weather.service.NotificationService",
+               "com.aisqk.weather.service.UpdateWeatherService",
+               "com.aisqk.weather.service.VoicePlayService",
+               "com.aisqk.weather.service.HostAssistantService",
+               "com.aisqk.weather.service.RemoveNotificService",
+               "com.aisqk.weather.service.DeleteShortCutService",
+               "com.ashionapp.news.service.DeleteShortCutService",
+               "com.amap.api.location.APSService",
+               "com.taobao.accs.ChannelService",
+               "com.taobao.accs.data.MsgDistributeService",
+               "com.taobao.accs.internal.AccsJobService",
+               "com.taobao.accs.ChannelService$KernelService",
+               "org.android.agoo.accs.AgooService",
+               "com.umeng.message.UmengIntentService",
+               "com.umeng.message.XiaomiIntentService",
+               "com.umeng.message.UmengMessageIntentReceiverService",
+               "com.umeng.message.UmengMessageCallbackHandlerService",
+               "com.umeng.message.UmengDownloadResourceService",
+               "com.vivo.push.sdk.service.CommandClientService",
+               "com.coloros.mcssdk.PushService",
+               "com.ashionapp.module.rxdownload.function.DownloadService",
+               "com.xiaomi.mipush.sdk.PushMessageHandler",
+               "com.xiaomi.mipush.sdk.MessageHandleService"
+            ],
+            "AndroidVersionCode": "24",
+            "main_activity": "com.ashionapp.calendar.function.ActStart",
+            "Package": "com.ashionapp.calendar",
+            "intent_filters": {
+               "Services": {
+                  "com.umeng.message.UmengMessageIntentReceiverService": {
+                     "action": [
+                        "org.android.agoo.client.MessageReceiverService"
+                     ]
+                  },
+                  "com.taobao.accs.ChannelService": {
+                     "action": [
+                        "com.taobao.accs.intent.action.SERVICE",
+                        "com.taobao.accs.intent.action.ELECTION"
+                     ]
+                  },
+                  "com.coloros.mcssdk.PushService": {
+                     "action": [
+                        "com.coloros.mcs.action.RECEIVE_MCS_MESSAGE"
+                     ]
+                  },
+                  "com.aisqk.weather.service.NotificationService": {
+                     "action": [
+                        "com.aisqk.weather.service.NotificationService"
+                     ]
+                  },
+                  "com.umeng.message.UmengIntentService": {
+                     "action": [
+                        "org.agoo.android.intent.action.RECEIVE"
+                     ]
+                  },
+                  "com.aisqk.weather.service.UpdateWeatherService": {
+                     "action": [
+                        "com.aisqk.weather.service.UpdateWeatherService"
+                     ]
+                  },
+                  "com.taobao.accs.data.MsgDistributeService": {
+                     "action": [
+                        "com.taobao.accs.intent.action.RECEIVE"
+                     ]
+                  },
+                  "com.umeng.message.UmengMessageCallbackHandlerService": {
+                     "action": [
+                        "com.umeng.messge.registercallback.action",
+                        "com.umeng.message.enablecallback.action",
+                        "com.umeng.message.disablecallback.action",
+                        "com.umeng.message.message.handler.action",
+                        "com.umeng.message.message.sendmessage.action"
+                     ]
+                  },
+                  "org.android.agoo.accs.AgooService": {
+                     "action": [
+                        "com.taobao.accs.intent.action.RECEIVE"
+                     ]
+                  },
+                  "com.umeng.message.XiaomiIntentService": {
+                     "action": [
+                        "org.agoo.android.intent.action.RECEIVE"
+                     ]
+                  }
+               },
+               "Activities": {
+                  "com.aisqk.weather.activity.AlertActivity": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_CONFIGURE"
+                     ]
+                  },
+                  "com.ashionapp.calendar.function.ActStart": {
+                     "action": [
+                        "android.intent.action.MAIN"
+                     ],
+                     "category": [
+                        "android.intent.category.LAUNCHER"
+                     ]
+                  },
+                  "com.umeng.qq.tencent.AuthActivity": {
+                     "action": [
+                        "android.intent.action.VIEW"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.BROWSABLE"
+                     ]
+                  },
+                  "com.ashionapp.news.NewsDetailActivity": {
+                     "action": [
+                        "android.intent.action.VIEW"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.BROWSABLE"
+                     ]
+                  },
+                  "com.ashionapp.news.uc.activity.UcNewsDetailActivity": {
+                     "action": [
+                        "android.intent.action.VIEW"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.BROWSABLE"
+                     ]
+                  },
+                  "com.ashionapp.news.activity.SearchAct": {
+                     "action": [
+                        "android.intent.action.VIEW"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.BROWSABLE"
+                     ]
+                  },
+                  "com.umeng_social_sdk_res_lib_simplify.activity.WBShareActivity": {
+                     "action": [
+                        "com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT"
+                     ]
+                  },
+                  "com.ashionapp.news.quickvideo.activity.VideoPlayActivity": {
+                     "action": [
+                        "android.intent.action.VIEW"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.BROWSABLE"
+                     ]
+                  },
+                  "com.aisqk.weather.sdk.activity.StartWeatherActivity": {
+                     "action": [
+                        "intent.action.StartWeatherActivity"
+                     ],
+                     "category": [
+                        "android.intent.category.LAUNCHER"
+                     ]
+                  }
+               },
+               "Receivers": {
+                  "com.taobao.accs.ServiceReceiver": {
+                     "action": [
+                        "com.taobao.accs.intent.action.COMMAND",
+                        "com.taobao.accs.intent.action.START_FROM_AGOO"
+                     ]
+                  },
+                  "org.android.agoo.huawei.HuaWeiReceiver": {
+                     "action": [
+                        "com.huawei.android.push.intent.REGISTRATION",
+                        "com.huawei.android.push.intent.RECEIVE",
+                        "com.huawei.intent.action.PUSH",
+                        "com.huawei.intent.action.PUSH_STATE"
+                     ]
+                  },
+                  "com.ashionapp.push.vivo.VivoPushMessageReceiver": {
+                     "action": [
+                        "com.vivo.pushclient.action.RECEIVE"
+                     ]
+                  },
+                  "com.taobao.accs.EventReceiver": {
+                     "action": [
+                        "android.intent.action.BOOT_COMPLETED",
+                        "android.net.conn.CONNECTIVITY_CHANGE",
+                        "android.intent.action.PACKAGE_REMOVED",
+                        "android.intent.action.USER_PRESENT"
+                     ]
+                  },
+                  "com.ashionapp.receiver.DeleteNotificationBroadcastReceiver": {
+                     "action": [
+                        "delete_notification_action"
+                     ]
+                  },
+                  "com.ashionapp.calendar.common.receiver.BootReceiver": {
+                     "action": [
+                        "android.intent.action.PACKAGE_ADDED"
+                     ]
+                  },
+                  "org.android.agoo.xiaomi.MiPushBroadcastReceiver": {
+                     "action": [
+                        "com.xiaomi.mipush.RECEIVE_MESSAGE",
+                        "com.xiaomi.mipush.ERROR"
+                     ]
+                  },
+                  "com.aisqk.weather.receiver.WidgetVoiceReceiver": {
+                     "action": [
+                        "com.aisqk.weather.widget.voice"
+                     ]
+                  },
+                  "com.taobao.agoo.AgooCommondReceiver": {
+                     "action": [
+                        "com.ashionapp.calendar.intent.action.COMMAND",
+                        "android.intent.action.PACKAGE_REMOVED"
+                     ]
+                  }
+               }
+            },
+            "AndroidVersionName": "1.3.9.1",
+            "TargetSdkVersion": "22",
+            "AndroidApplicationInfo": "APK",
+            "Providers": [
+               "android.support.v4.content.FileProvider",
+               "com.umeng.message.provider.MessageProvider"
+            ],
+            "permission_details": {
+               "android.permission.CHANGE_NETWORK_STATE": {
+                  "short_description": "change network connectivity",
+                  "full_description": "Allows an application to change the state of network connectivity.",
+                  "permission_type": "normal"
+               },
+               "android.permission.DISABLE_KEYGUARD": {
+                  "short_description": "disable key lock",
+                  "full_description": "Allows an application to disable the key lock and any associated password security. A legitimate example of this is the phone disabling the key lock when receiving an incoming phone call, then re-enabling the key lock when the call is finished.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.ACCESS_COARSE_UPDATES": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.android.launcher.permission.UNINSTALL_SHORTCUT": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.huawei.launcher2.permission.WRITE_SETTINGS": {
+                  "short_description": "modify global system settings",
+                  "full_description": "Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration.",
+                  "permission_type": "normal"
+               },
+               "android.permission.READ_CALENDAR": {
+                  "short_description": "read calendar events",
+                  "full_description": "Allows an application to read all of the calendar events stored on your phone. Malicious applications can use this to send your calendar events to other people.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.READ_LOGS": {
+                  "short_description": "read sensitive log data",
+                  "full_description": "Allows an application to read from the system's various log files. This allows it to discover general information about what you are doing with the phone, potentially including personal or private information.",
+                  "permission_type": "signatureOrSystemOrDevelopment"
+               },
+               "com.huawei.android.launcher.permission.WRITE_SETTINGS": {
+                  "short_description": "modify global system settings",
+                  "full_description": "Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration.",
+                  "permission_type": "normal"
+               },
+               "android.permission.ACCESS_COARSE_LOCATION": {
+                  "short_description": "coarse (network-based) location",
+                  "full_description": "Access coarse location sources, such as the mobile network database, to determine an approximate phone location, where available. Malicious applications can use this to determine approximately where you are.",
+                  "permission_type": "dangerous"
+               },
+               "com.huawei.launcher3.permission.READ_SETTINGS": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.BLUETOOTH": {
+                  "short_description": "create Bluetooth connections",
+                  "full_description": "Allows an application to view configuration of the local Bluetooth phone and to make and accept connections with paired devices.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.WRITE_CALENDAR": {
+                  "short_description": "add or modify calendar events and send emails to guests",
+                  "full_description": "Allows an application to add or change the events on your calendar, which may send emails to guests. Malicious applications can use this to erase or modify your calendar events or to send emails to guests.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.INTERNET": {
+                  "short_description": "full Internet access",
+                  "full_description": "Allows an application to create network sockets.",
+                  "permission_type": "dangerous"
+               },
+               "com.huawei.launcher2.permission.READ_SETTINGS": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.CHANGE_CONFIGURATION": {
+                  "short_description": "change your UI settings",
+                  "full_description": "Allows an application to change the current configuration, such as the locale or overall font size.",
+                  "permission_type": "signatureOrSystemOrDevelopment"
+               },
+               "android.permission.ACCESS_FINE_LOCATION": {
+                  "short_description": "fine (GPS) location",
+                  "full_description": "Access fine location sources, such as the Global Positioning System on the phone, where available. Malicious applications can use this to determine where you are and may consume additional battery power.",
+                  "permission_type": "dangerous"
+               },
+               "com.aisqk.weather.permission.APPWIDGET_CONFIGUER": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.INTERACT_ACROSS_USERS_FULL": {
+                  "short_description": "",
+                  "full_description": "Fuller form of INTERACT_ACROSS_USERS that removes restrictions on where broadcasts can be sent and allows other types of interactions.",
+                  "permission_type": "signature"
+               },
+               "android.permission.RECEIVE_USER_PRESENT": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.android.launcher.permission.INSTALL_SHORTCUT": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.huawei.launcher3.permission.WRITE_SETTINGS": {
+                  "short_description": "modify global system settings",
+                  "full_description": "Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration.",
+                  "permission_type": "normal"
+               },
+               "android.permission.ACCESS_NETWORK_STATE": {
+                  "short_description": "view network status",
+                  "full_description": "Allows an application to view the status of all networks.",
+                  "permission_type": "normal"
+               },
+               "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS": {
+                  "short_description": "access extra location provider commands",
+                  "full_description": "Access extra location provider commands. Malicious applications could use this to interfere with the operation of the GPS or other location sources.",
+                  "permission_type": "normal"
+               },
+               "android.permission.GET_TASKS": {
+                  "short_description": "retrieve running applications",
+                  "full_description": "Allows application to retrieve information about currently and recently running tasks. May allow malicious applications to discover private information about other applications.",
+                  "permission_type": "dangerous"
+               },
+               "com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.ashionapp.calendar.permission.MIPUSH_RECEIVE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.WRITE_EXTERNAL_STORAGE": {
+                  "short_description": "modify/delete SD card contents",
+                  "full_description": "Allows an application to write to the SD card.",
+                  "permission_type": "dangerous"
+               },
+               "com.aisqk.weather.permission.SKIP_ACTIVITY": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.BROADCAST_PACKAGE_REPLACED": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.READ_EXTERNAL_STORAGE": {
+                  "short_description": "read from external storage",
+                  "full_description": "Allows an application to read from external storage",
+                  "permission_type": "normal"
+               },
+               "android.permission.RECEIVE_BOOT_COMPLETED": {
+                  "short_description": "automatically start at boot",
+                  "full_description": "Allows an application to start itself as soon as the system has finished booting. This can make it take longer to start the phone and allow the application to slow down the overall phone by always running.",
+                  "permission_type": "normal"
+               },
+               "android.permission.BATTERY_STATS": {
+                  "short_description": "modify battery statistics",
+                  "full_description": "Allows the modification of collected battery statistics. Not for use by normal applications.",
+                  "permission_type": "dangerous"
+               },
+               "com.android.launcher.permission.READ_SETTINGS": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.BROADCAST_PACKAGE_INSTALL": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.BROADCAST_STICKY": {
+                  "short_description": "send sticky broadcast",
+                  "full_description": "Allows an application to send sticky broadcasts, which remain after the broadcast ends. Malicious applications can make the phone slow or unstable by causing it to use too much memory.",
+                  "permission_type": "normal"
+               },
+               "android.permission.WRITE_SETTINGS": {
+                  "short_description": "modify global system settings",
+                  "full_description": "Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration.",
+                  "permission_type": "normal"
+               },
+               "com.android.alarm.permission.SET_ALARM": {
+                  "short_description": "set alarm in alarm clock",
+                  "full_description": "Allows the application to set an alarm in an installed alarm clock application. Some alarm clock applications may not implement this feature.",
+                  "permission_type": "normal"
+               },
+               "android.permission.READ_PHONE_STATE": {
+                  "short_description": "read phone state and identity",
+                  "full_description": "Allows the application to access the phone features of the device. An application with this permission can determine the phone number and serial number of this phone, whether a call is active, the number that call is connected to and so on.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.SYSTEM_OVERLAY_WINDOW": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.VIBRATE": {
+                  "short_description": "control vibrator",
+                  "full_description": "Allows the application to control the vibrator.",
+                  "permission_type": "normal"
+               },
+               "android.permission.SYSTEM_ALERT_WINDOW": {
+                  "short_description": "display system-level alerts",
+                  "full_description": "Allows an application to show system-alert windows. Malicious applications can take over the entire screen of the phone.",
+                  "permission_type": "dangerous"
+               },
+               "com.huawei.android.launcher.permission.READ_SETTINGS": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.KILL_BACKGROUND_PROCESSES": {
+                  "short_description": "kill background processes",
+                  "full_description": "Allows an application to kill background processes of other applications, even if memory is not low.",
+                  "permission_type": "normal"
+               },
+               "android.permission.ACCESS_WIFI_STATE": {
+                  "short_description": "view Wi-Fi status",
+                  "full_description": "Allows an application to view the information about the status of Wi-Fi.",
+                  "permission_type": "normal"
+               },
+               "android.permission.WAKE_LOCK": {
+                  "short_description": "prevent phone from sleeping",
+                  "full_description": "Allows an application to prevent the phone from going to sleep.",
+                  "permission_type": "normal"
+               },
+               "android.permission.BROADCAST_PACKAGE_CHANGED": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.BROADCAST_PACKAGE_ADDED": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.CHANGE_WIFI_STATE": {
+                  "short_description": "change Wi-Fi status",
+                  "full_description": "Allows an application to connect to and disconnect from Wi-Fi access points and to make changes to configured Wi-Fi networks.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.MOUNT_UNMOUNT_FILESYSTEMS": {
+                  "short_description": "mount and unmount file systems",
+                  "full_description": "Allows the application to mount and unmount file systems for removable storage.",
+                  "permission_type": "signatureOrSystem"
+               },
+               "android.permission.RESTART_PACKAGES": {
+                  "short_description": "kill background processes",
+                  "full_description": "Allows an application to kill background processes of other applications, even if memory is not low.",
+                  "permission_type": "normal"
+               }
+            },
+            "Receivers": [
+               "com.ashionapp.calendar.common.receiver.BootReceiver",
+               "com.aisqk.weather.receiver.NotificationReceiver",
+               "com.aisqk.weather.receiver.WidgetVoiceReceiver",
+               "com.taobao.accs.EventReceiver",
+               "com.taobao.accs.ServiceReceiver",
+               "com.taobao.agoo.AgooCommondReceiver",
+               "com.umeng.message.NotificationProxyBroadcastReceiver",
+               "com.ashionapp.push.vivo.VivoPushMessageReceiver",
+               "com.ashionapp.receiver.DeleteNotificationBroadcastReceiver",
+               "org.android.agoo.xiaomi.MiPushBroadcastReceiver",
+               "org.android.agoo.huawei.HuaWeiReceiver"
+            ]
+         },
+         "magic": "Zip archive data, at least v2.0 to extract",
+         "last_analysis_stats": {
+            "harmless": 0,
+            "type-unsupported": 10,
+            "suspicious": 0,
+            "confirmed-timeout": 0,
+            "timeout": 0,
+            "failure": 0,
+            "malicious": 9,
+            "undetected": 55
+         },
+         "meaningful_name": "qukuairili_dijiu.com.apk",
+         "reputation": 0
+      },
+      "type": "file",
+      "id": "e1965ab93e2614d5c6cf6c9536d40da4dcd86bfcb954271bd3dcf41e615402ad",
+      "links": {
+         "self": "https://www.virustotal.com/api/v3/files/e1965ab93e2614d5c6cf6c9536d40da4dcd86bfcb954271bd3dcf41e615402ad"
+      }
+   }
+}

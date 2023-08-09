@@ -1,0 +1,7 @@
+{
+    "SHA256": "E196558ADD7596E715DC2237D2F5A42D7194BA3A4266871CD36358BFC2A6A2F5",
+    "APP_NAME": "LinkPanCardWithAadhar",
+    "PACKAGE": "io.makeroid.netmetapp.LinkPanCardWithAadhar",
+    "TARGET_API": 27,
+    "MIN_API": 16
+}

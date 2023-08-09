@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19621980164E699B247DA2A92FDE4F2C9784D7EC06945D1CC070A73DD68C47A",
+    "APP_NAME": "Wayback Machine",
+    "PACKAGE": "com.archive.waybackmachine",
+    "TARGET_API": 25,
+    "MIN_API": 17
+}

@@ -1,0 +1,7 @@
+{
+    "SHA256": "E196352C258E2E214E2ED0B7F74E3DDC45CD2147D1C06FD8C2D2EF835CAAEE40",
+    "APP_NAME": "Veeka",
+    "PACKAGE": "sg.partying.android.lite",
+    "TARGET_API": 31,
+    "MIN_API": 21
+}

@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1964B0A1C27365775B2BB9866DCD7640F7B13591D2217D3436404DE6F6A7099",
+    "APP_NAME": "KitchenTimerWithVideo",
+    "PACKAGE": "com.kenkodama.kitchentimerwithvideo",
+    "TARGET_API": 19,
+    "MIN_API": 14
+}

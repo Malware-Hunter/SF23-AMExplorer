@@ -1,0 +1,7 @@
+{
+    "SHA256": "E19651C2E8BABB0A1451C7E716CC64F8C8CCA869B087AF410B87DA12A7122CAB",
+    "APP_NAME": "Figure It",
+    "PACKAGE": "com.tgmedia.word.puzzle.game.fgr",
+    "TARGET_API": 31,
+    "MIN_API": 19
+}

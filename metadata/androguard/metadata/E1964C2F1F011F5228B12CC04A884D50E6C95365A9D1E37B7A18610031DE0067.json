@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1964C2F1F011F5228B12CC04A884D50E6C95365A9D1E37B7A18610031DE0067",
+    "APP_NAME": "Space Adventures",
+    "PACKAGE": "com.MooseGaming.SpaceAdventures",
+    "TARGET_API": 29,
+    "MIN_API": 19
+}

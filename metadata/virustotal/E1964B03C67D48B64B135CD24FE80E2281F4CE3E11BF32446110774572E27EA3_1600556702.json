@@ -1,0 +1,1172 @@
+{
+   "data": {
+      "attributes": {
+         "type_description": "Android",
+         "vhash": "032c3c77d8effab3f41e847a615ec3d4",
+         "type_tags": [
+            "executable",
+            "mobile",
+            "android",
+            "apk"
+         ],
+         "names": [
+            "976737_fc108e_com.tbig.playerprotrial_4.81_169.apk",
+            "PlayerPro 4.81.apk"
+         ],
+         "last_modification_date": 1600564152,
+         "type_tag": "android",
+         "times_submitted": 6,
+         "total_votes": {
+            "harmless": 0,
+            "malicious": 0
+         },
+         "size": 13425810,
+         "type_extension": "apk",
+         "last_submission_date": 1600556702,
+         "last_analysis_results": {
+            "Bkav": {
+               "category": "undetected",
+               "engine_name": "Bkav",
+               "engine_version": "1.3.0.9899",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Lionic": {
+               "category": "undetected",
+               "engine_name": "AegisLab",
+               "engine_version": "4.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Elastic": {
+               "category": "type-unsupported",
+               "engine_name": "Elastic",
+               "engine_version": "4.0.9",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200917"
+            },
+            "MicroWorld-eScan": {
+               "category": "undetected",
+               "engine_name": "MicroWorld-eScan",
+               "engine_version": "14.0.409.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "ClamAV": {
+               "category": "failure",
+               "engine_name": "ClamAV",
+               "engine_version": "0.103.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200918"
+            },
+            "FireEye": {
+               "category": "undetected",
+               "engine_name": "FireEye",
+               "engine_version": "32.36.1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "CAT-QuickHeal": {
+               "category": "undetected",
+               "engine_name": "CAT-QuickHeal",
+               "engine_version": "14.00",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "ALYac": {
+               "category": "undetected",
+               "engine_name": "ALYac",
+               "engine_version": "1.1.1.5",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Malwarebytes": {
+               "category": "undetected",
+               "engine_name": "Malwarebytes",
+               "engine_version": "3.6.4.335",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Zillya": {
+               "category": "undetected",
+               "engine_name": "Zillya",
+               "engine_version": "2.0.0.4178",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Paloalto": {
+               "category": "type-unsupported",
+               "engine_name": "Paloalto",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Sangfor": {
+               "category": "undetected",
+               "engine_name": "Sangfor",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200814"
+            },
+            "Trustlook": {
+               "category": "undetected",
+               "engine_name": "Trustlook",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Alibaba": {
+               "category": "undetected",
+               "engine_name": "Alibaba",
+               "engine_version": "0.3.0.5",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190527"
+            },
+            "K7GW": {
+               "category": "undetected",
+               "engine_name": "K7GW",
+               "engine_version": "11.141.35284",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "K7AntiVirus": {
+               "category": "undetected",
+               "engine_name": "K7AntiVirus",
+               "engine_version": "11.141.35284",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "TrendMicro": {
+               "category": "undetected",
+               "engine_name": "TrendMicro",
+               "engine_version": "11.0.0.1006",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "BitDefenderTheta": {
+               "category": "undetected",
+               "engine_name": "BitDefenderTheta",
+               "engine_version": "7.2.37796.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200918"
+            },
+            "Cyren": {
+               "category": "undetected",
+               "engine_name": "Cyren",
+               "engine_version": "6.3.0.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "SymantecMobileInsight": {
+               "category": "undetected",
+               "engine_name": "SymantecMobileInsight",
+               "engine_version": "2.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200813"
+            },
+            "Symantec": {
+               "category": "undetected",
+               "engine_name": "Symantec",
+               "engine_version": "1.12.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "TotalDefense": {
+               "category": "undetected",
+               "engine_name": "TotalDefense",
+               "engine_version": "37.1.62.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Baidu": {
+               "category": "undetected",
+               "engine_name": "Baidu",
+               "engine_version": "1.0.0.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190318"
+            },
+            "TrendMicro-HouseCall": {
+               "category": "undetected",
+               "engine_name": "TrendMicro-HouseCall",
+               "engine_version": "10.0.0.1040",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Avast": {
+               "category": "undetected",
+               "engine_name": "Avast",
+               "engine_version": "18.4.3895.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Cynet": {
+               "category": "undetected",
+               "engine_name": "Cynet",
+               "engine_version": "4.0.0.24",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200917"
+            },
+            "Kaspersky": {
+               "category": "undetected",
+               "engine_name": "Kaspersky",
+               "engine_version": "15.0.1.13",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "BitDefender": {
+               "category": "undetected",
+               "engine_name": "BitDefender",
+               "engine_version": "7.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "NANO-Antivirus": {
+               "category": "undetected",
+               "engine_name": "NANO-Antivirus",
+               "engine_version": "1.0.134.25140",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "SUPERAntiSpyware": {
+               "category": "undetected",
+               "engine_name": "SUPERAntiSpyware",
+               "engine_version": "5.6.0.1032",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200918"
+            },
+            "APEX": {
+               "category": "type-unsupported",
+               "engine_name": "APEX",
+               "engine_version": "6.72",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Rising": {
+               "category": "undetected",
+               "engine_name": "Rising",
+               "engine_version": "25.0.0.26",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Ad-Aware": {
+               "category": "undetected",
+               "engine_name": "Ad-Aware",
+               "engine_version": "3.0.16.117",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Comodo": {
+               "category": "undetected",
+               "engine_name": "Comodo",
+               "engine_version": "32825",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "F-Secure": {
+               "category": "undetected",
+               "engine_name": "F-Secure",
+               "engine_version": "12.0.86.52",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "DrWeb": {
+               "category": "undetected",
+               "engine_name": "DrWeb",
+               "engine_version": "7.0.49.9080",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "VIPRE": {
+               "category": "undetected",
+               "engine_name": "VIPRE",
+               "engine_version": "86818",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Invincea": {
+               "category": "undetected",
+               "engine_name": "Invincea",
+               "engine_version": "1.0.1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Trapmine": {
+               "category": "type-unsupported",
+               "engine_name": "Trapmine",
+               "engine_version": "3.5.0.1023",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200727"
+            },
+            "CMC": {
+               "category": "undetected",
+               "engine_name": "CMC",
+               "engine_version": "2.7.2019.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Sophos": {
+               "category": "undetected",
+               "engine_name": "Sophos",
+               "engine_version": "4.98.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "SentinelOne": {
+               "category": "undetected",
+               "engine_name": "SentinelOne",
+               "engine_version": "4.4.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200724"
+            },
+            "Avast-Mobile": {
+               "category": "undetected",
+               "engine_name": "Avast-Mobile",
+               "engine_version": "200919-00",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Jiangmin": {
+               "category": "undetected",
+               "engine_name": "Jiangmin",
+               "engine_version": "16.0.100",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Webroot": {
+               "category": "type-unsupported",
+               "engine_name": "Webroot",
+               "engine_version": "1.0.0.403",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Avira": {
+               "category": "undetected",
+               "engine_name": "Avira",
+               "engine_version": "8.3.3.8",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "eGambit": {
+               "category": "type-unsupported",
+               "engine_name": "eGambit",
+               "engine_version": null,
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "MAX": {
+               "category": "undetected",
+               "engine_name": "MAX",
+               "engine_version": "2019.9.16.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Antiy-AVL": {
+               "category": "undetected",
+               "engine_name": "Antiy-AVL",
+               "engine_version": "3.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Kingsoft": {
+               "category": "undetected",
+               "engine_name": "Kingsoft",
+               "engine_version": "2013.8.14.323",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Microsoft": {
+               "category": "undetected",
+               "engine_name": "Microsoft",
+               "engine_version": "1.1.17400.5",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Arcabit": {
+               "category": "undetected",
+               "engine_name": "Arcabit",
+               "engine_version": "1.0.0.881",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "ViRobot": {
+               "category": "undetected",
+               "engine_name": "ViRobot",
+               "engine_version": "2014.3.20.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "ZoneAlarm": {
+               "category": "undetected",
+               "engine_name": "ZoneAlarm",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "GData": {
+               "category": "undetected",
+               "engine_name": "GData",
+               "engine_version": "A:25.27075B:27.20227",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "AhnLab-V3": {
+               "category": "undetected",
+               "engine_name": "AhnLab-V3",
+               "engine_version": "3.18.1.10026",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Acronis": {
+               "category": "type-unsupported",
+               "engine_name": "Acronis",
+               "engine_version": "1.1.1.78",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200917"
+            },
+            "McAfee": {
+               "category": "undetected",
+               "engine_name": "McAfee",
+               "engine_version": "6.0.6.653",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "TACHYON": {
+               "category": "undetected",
+               "engine_name": "TACHYON",
+               "engine_version": "2020-09-19.02",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "VBA32": {
+               "category": "undetected",
+               "engine_name": "VBA32",
+               "engine_version": "4.4.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200918"
+            },
+            "Cylance": {
+               "category": "type-unsupported",
+               "engine_name": "Cylance",
+               "engine_version": "2.3.1.101",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Zoner": {
+               "category": "undetected",
+               "engine_name": "Zoner",
+               "engine_version": "0.0.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "ESET-NOD32": {
+               "category": "undetected",
+               "engine_name": "ESET-NOD32",
+               "engine_version": "22018",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Tencent": {
+               "category": "undetected",
+               "engine_name": "Tencent",
+               "engine_version": "1.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Yandex": {
+               "category": "undetected",
+               "engine_name": "Yandex",
+               "engine_version": "5.5.2.24",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200911"
+            },
+            "Ikarus": {
+               "category": "undetected",
+               "engine_name": "Ikarus",
+               "engine_version": "0.1.5.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "MaxSecure": {
+               "category": "undetected",
+               "engine_name": "MaxSecure",
+               "engine_version": "1.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Fortinet": {
+               "category": "undetected",
+               "engine_name": "Fortinet",
+               "engine_version": "6.2.142.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "AVG": {
+               "category": "undetected",
+               "engine_name": "AVG",
+               "engine_version": "18.4.3895.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "Cybereason": {
+               "category": "type-unsupported",
+               "engine_name": "Cybereason",
+               "engine_version": "1.2.449",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190616"
+            },
+            "Panda": {
+               "category": "undetected",
+               "engine_name": "Panda",
+               "engine_version": "4.6.4.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            },
+            "CrowdStrike": {
+               "category": "type-unsupported",
+               "engine_name": "CrowdStrike",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190702"
+            },
+            "Qihoo-360": {
+               "category": "undetected",
+               "engine_name": "Qihoo-360",
+               "engine_version": "1.0.0.1120",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200919"
+            }
+         },
+         "trid": [
+            {
+               "file_type": "Android Package",
+               "probability": 57.0
+            },
+            {
+               "file_type": "Java Archive",
+               "probability": 20.0
+            },
+            {
+               "file_type": "Sweet Home 3D design (generic)",
+               "probability": 15.5
+            },
+            {
+               "file_type": "ZIP compressed archive",
+               "probability": 5.9
+            },
+            {
+               "file_type": "PrintFox/Pagefox bitmap (640x800)",
+               "probability": 1.4
+            }
+         ],
+         "sha256": "e1964b03c67d48b64b135cd24fe80e2281f4ce3e11bf32446110774572e27ea3",
+         "tags": [
+            "reflection",
+            "apk",
+            "runtime-modules",
+            "contains-elf",
+            "telephony",
+            "android"
+         ],
+         "last_analysis_date": 1600556702,
+         "unique_sources": 3,
+         "first_submission_date": 1532935366,
+         "sha1": "2ccafaba91486cd63eee0acc14e3f1dd19981183",
+         "ssdeep": "393216:ZvO2mUJ4s6hWQo9JnKyuAsc5N28dXGgh1Bv4:0VU659WhKyffN28zh74",
+         "bundle_info": {
+            "highest_datetime": "2018-07-28 18:45:18",
+            "lowest_datetime": "1980-01-01 00:00:00",
+            "num_children": 3304,
+            "extensions": {
+               "xml": 74,
+               "dex": 1,
+               "MF": 1,
+               "RSA": 1,
+               "so": 7,
+               "SF": 1,
+               "png": 892
+            },
+            "file_types": {
+               "XML": 74,
+               "unknown": 26,
+               "DEX": 1,
+               "ELF": 7,
+               "PNG": 892
+            },
+            "type": "APK",
+            "uncompressed_size": 9732954
+         },
+         "md5": "110ff3d467e9876bc6a8b1d0ce3f9758",
+         "androguard": {
+            "VTAndroidInfo": 1.41,
+            "AndroidApplicationError": false,
+            "MinSdkVersion": "14",
+            "AndroguardVersion": "3.0-dev",
+            "Activities": [
+               "com.tbig.playerprotrial.MusicBrowserActivity",
+               "com.tbig.playerprotrial.MediaPlaybackActivity",
+               "com.tbig.playerprotrial.StreamStarter",
+               "com.tbig.playerprotrial.track.QueryBrowserActivity",
+               "com.tbig.playerprotrial.playlist.PlaylistBrowserActivity",
+               "com.tbig.playerprotrial.video.VideoBrowserActivity",
+               "com.tbig.playerprotrial.track.MusicPicker",
+               "com.tbig.playerprotrial.ScanningProgress",
+               "com.tbig.playerprotrial.artwork.ArtCropperActivity",
+               "com.tbig.playerprotrial.artwork.ArtPickerActivity",
+               "com.tbig.playerprotrial.artwork.GoogleArtPickerActivity",
+               "com.tbig.playerprotrial.album.AlbumArtPickerActivity",
+               "com.tbig.playerprotrial.artist.ArtistArtPickerActivity",
+               "com.tbig.playerprotrial.genre.GenreArtPickerActivity",
+               "com.tbig.playerprotrial.album.AlbumGetInfoActivity",
+               "com.tbig.playerprotrial.artist.ArtistGetInfoActivity",
+               "com.tbig.playerprotrial.track.DisplayLyricsActivity",
+               "com.tbig.playerprotrial.settings.PlayerProSettingsActivity",
+               "com.tbig.playerprotrial.settings.ReleaseNotesActivity",
+               "com.tbig.playerprotrial.lockscreen.DismissActivity",
+               "com.tbig.playerprotrial.lockscreen.LockScreenActivity",
+               "com.tbig.playerprotrial.video.VideoPlayerActivity",
+               "com.tbig.playerprotrial.BrowsingActivity",
+               "com.tbig.playerprotrial.tageditor.EditActivity",
+               "com.tbig.playerprotrial.playlist.SPLEditActivity",
+               "com.tbig.playerprotrial.equalizer.EqualizerActivity",
+               "com.tbig.playerprotrial.utils.SendReportActivity",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetConfigureLarge",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetConfigureMedium",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetConfigureSmall",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetConfigure",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetConfigurePlus",
+               "com.facebook.ads.AudienceNetworkActivity",
+               "com.google.android.gms.common.api.GoogleApiActivity",
+               "com.google.android.gms.ads.AdActivity"
+            ],
+            "certificate": {
+               "Subject": {
+                  "DN": "C:FR, CN:Tristan Bigourdan, L:Nice, O:PlayerPro, ST:PACA, OU:PlayerPro",
+                  "C": "FR",
+                  "CN": "Tristan Bigourdan",
+                  "L": "Nice",
+                  "O": "PlayerPro",
+                  "ST": "PACA",
+                  "OU": "PlayerPro"
+               },
+               "validto": "2038-03-30 22:51:56",
+               "serialnumber": "4cddc50c",
+               "thumbprint": "14691867b6837320880069ce5db2878432380b31",
+               "validfrom": "2010-11-12 22:51:56",
+               "Issuer": {
+                  "DN": "C:FR, CN:Tristan Bigourdan, L:Nice, O:PlayerPro, ST:PACA, OU:PlayerPro",
+                  "C": "FR",
+                  "CN": "Tristan Bigourdan",
+                  "L": "Nice",
+                  "O": "PlayerPro",
+                  "ST": "PACA",
+                  "OU": "PlayerPro"
+               }
+            },
+            "AndroidApplication": 1,
+            "RiskIndicator": {
+               "APK": {
+                  "DEX": 1,
+                  "SHARED LIBRARIES": 7
+               },
+               "PERM": {
+                  "DANGEROUS": 4,
+                  "INTERNET": 1,
+                  "PRIVACY": 1,
+                  "NORMAL": 9,
+                  "SIGNATURE": 1
+               }
+            },
+            "Services": [
+               "com.tbig.playerprotrial.MediaPlaybackService",
+               "com.tbig.playerprotrial.artwork.ArtworkService",
+               "com.tbig.playerprotrial.HeadsetMicroService",
+               "com.tbig.playerprotrial.lockscreen.LockScreenService",
+               "com.google.android.gms.cast.framework.media.MediaNotificationService",
+               "com.google.android.gms.cast.framework.ReconnectionService",
+               "com.google.firebase.components.ComponentDiscoveryService",
+               "com.google.android.gms.measurement.AppMeasurementService",
+               "com.google.android.gms.measurement.AppMeasurementJobService",
+               "com.google.firebase.iid.FirebaseInstanceIdService"
+            ],
+            "AndroidVersionCode": "169",
+            "main_activity": "com.tbig.playerprotrial.MusicBrowserActivity",
+            "Package": "com.tbig.playerprotrial",
+            "intent_filters": {
+               "Services": {
+                  "com.tbig.playerprotrial.MediaPlaybackService": {
+                     "action": [
+                        "android.media.browse.MediaBrowserService"
+                     ]
+                  },
+                  "com.google.firebase.iid.FirebaseInstanceIdService": {
+                     "action": [
+                        "com.google.firebase.INSTANCE_ID_EVENT"
+                     ]
+                  }
+               },
+               "Activities": {
+                  "com.tbig.playerprotrial.StreamStarter": {
+                     "action": [
+                        "android.intent.action.VIEW"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.BROWSABLE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.video.VideoPlayerActivity": {
+                     "action": [
+                        "android.intent.action.VIEW"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.BROWSABLE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetConfigure": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_CONFIGURE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.MediaPlaybackActivity": {
+                     "action": [
+                        "android.intent.action.VIEW",
+                        "com.tbig.playerprotrial.PLAYBACK_VIEWER"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.MusicBrowserActivity": {
+                     "action": [
+                        "android.intent.action.MAIN",
+                        "android.intent.action.MUSIC_PLAYER"
+                     ],
+                     "category": [
+                        "android.intent.category.APP_MUSIC",
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.LAUNCHER"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.video.VideoBrowserActivity": {
+                     "action": [
+                        "android.intent.action.PICK"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.playlist.PlaylistBrowserActivity": {
+                     "action": [
+                        "android.intent.action.PICK",
+                        "android.intent.action.VIEW"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.track.QueryBrowserActivity": {
+                     "action": [
+                        "android.intent.action.SEARCH",
+                        "android.intent.action.MEDIA_SEARCH",
+                        "android.media.action.MEDIA_PLAY_FROM_SEARCH"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetConfigureSmall": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_CONFIGURE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetConfigureMedium": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_CONFIGURE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetConfigurePlus": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_CONFIGURE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.track.MusicPicker": {
+                     "action": [
+                        "android.intent.action.GET_CONTENT",
+                        "android.intent.action.PICK"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT",
+                        "android.intent.category.OPENABLE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetConfigureLarge": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_CONFIGURE"
+                     ]
+                  }
+               },
+               "Receivers": {
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetProviderSmall": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_UPDATE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetProviderLarge": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_UPDATE"
+                     ]
+                  },
+                  "com.google.firebase.iid.FirebaseInstanceIdReceiver": {
+                     "action": [
+                        "com.google.android.c2dm.intent.RECEIVE"
+                     ],
+                     "category": [
+                        "com.tbig.playerprotrial"
+                     ]
+                  },
+                  "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver": {
+                     "action": [
+                        "com.android.vending.INSTALL_REFERRER"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetProviderPlus": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_UPDATE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetProviderMedium": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_UPDATE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.BootCompleteReceiver": {
+                     "action": [
+                        "android.intent.action.BOOT_COMPLETED"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.widget.MediaAppWidgetProvider": {
+                     "action": [
+                        "android.appwidget.action.APPWIDGET_UPDATE"
+                     ]
+                  },
+                  "com.tbig.playerprotrial.MediaButtonReceiver": {
+                     "action": [
+                        "android.intent.action.MEDIA_BUTTON"
+                     ]
+                  }
+               }
+            },
+            "AndroidVersionName": "4.81",
+            "TargetSdkVersion": "25",
+            "AndroidApplicationInfo": "APK",
+            "Providers": [
+               "android.support.v4.content.FileProvider",
+               "com.tbig.playerprotrial.music.PlayerProProvider",
+               "com.google.firebase.provider.FirebaseInitProvider"
+            ],
+            "permission_details": {
+               "android.permission.WAKE_LOCK": {
+                  "short_description": "prevent phone from sleeping",
+                  "full_description": "Allows an application to prevent the phone from going to sleep.",
+                  "permission_type": "normal"
+               },
+               "android.permission.READ_EXTERNAL_STORAGE": {
+                  "short_description": "read from external storage",
+                  "full_description": "Allows an application to read from external storage",
+                  "permission_type": "normal"
+               },
+               "android.permission.RECEIVE_BOOT_COMPLETED": {
+                  "short_description": "automatically start at boot",
+                  "full_description": "Allows an application to start itself as soon as the system has finished booting. This can make it take longer to start the phone and allow the application to slow down the overall phone by always running.",
+                  "permission_type": "normal"
+               },
+               "android.permission.READ_PHONE_STATE": {
+                  "short_description": "read phone state and identity",
+                  "full_description": "Allows the application to access the phone features of the device. An application with this permission can determine the phone number and serial number of this phone, whether a call is active, the number that call is connected to and so on.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.SYSTEM_ALERT_WINDOW": {
+                  "short_description": "display system-level alerts",
+                  "full_description": "Allows an application to show system-alert windows. Malicious applications can take over the entire screen of the phone.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.DISABLE_KEYGUARD": {
+                  "short_description": "disable key lock",
+                  "full_description": "Allows an application to disable the key lock and any associated password security. A legitimate example of this is the phone disabling the key lock when receiving an incoming phone call, then re-enabling the key lock when the call is finished.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.ACCESS_NETWORK_STATE": {
+                  "short_description": "view network status",
+                  "full_description": "Allows an application to view the status of all networks.",
+                  "permission_type": "normal"
+               },
+               "com.google.android.c2dm.permission.RECEIVE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.BROADCAST_STICKY": {
+                  "short_description": "send sticky broadcast",
+                  "full_description": "Allows an application to send sticky broadcasts, which remain after the broadcast ends. Malicious applications can make the phone slow or unstable by causing it to use too much memory.",
+                  "permission_type": "normal"
+               },
+               "android.permission.VIBRATE": {
+                  "short_description": "control vibrator",
+                  "full_description": "Allows the application to control the vibrator.",
+                  "permission_type": "normal"
+               },
+               "android.permission.BLUETOOTH": {
+                  "short_description": "create Bluetooth connections",
+                  "full_description": "Allows an application to view configuration of the local Bluetooth phone and to make and accept connections with paired devices.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.ACCESS_WIFI_STATE": {
+                  "short_description": "view Wi-Fi status",
+                  "full_description": "Allows an application to view the information about the status of Wi-Fi.",
+                  "permission_type": "normal"
+               },
+               "android.permission.INTERNET": {
+                  "short_description": "full Internet access",
+                  "full_description": "Allows an application to create network sockets.",
+                  "permission_type": "dangerous"
+               },
+               "android.permission.MODIFY_AUDIO_SETTINGS": {
+                  "short_description": "change your audio settings",
+                  "full_description": "Allows application to modify global audio settings, such as volume and routing.",
+                  "permission_type": "normal"
+               },
+               "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.WRITE_SETTINGS": {
+                  "short_description": "modify global system settings",
+                  "full_description": "Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration.",
+                  "permission_type": "normal"
+               },
+               "android.permission.WRITE_EXTERNAL_STORAGE": {
+                  "short_description": "modify/delete SD card contents",
+                  "full_description": "Allows an application to write to the SD card.",
+                  "permission_type": "dangerous"
+               },
+               "com.tbig.playerprotrial.permission.C2D_MESSAGE": {
+                  "short_description": "C2DM permission.",
+                  "full_description": "C2DM permission.",
+                  "permission_type": "signature"
+               }
+            },
+            "Receivers": [
+               "com.tbig.playerprotrial.MediaButtonReceiver",
+               "com.tbig.playerprotrial.BootCompleteReceiver",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetProvider",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetProviderSmall",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetProviderMedium",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetProviderPlus",
+               "com.tbig.playerprotrial.widget.MediaAppWidgetProviderLarge",
+               "com.google.android.gms.cast.framework.media.MediaIntentReceiver",
+               "com.google.android.gms.measurement.AppMeasurementReceiver",
+               "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+               "com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            ],
+            "StringsInformation": [
+               "http://",
+               "http://%s:%d/%s",
+               "http://app.adjust.io/%s",
+               "http://c1.staticflickr.com/9/8045/8147164697_f7e1007af8.jpg",
+               "http://c1.staticflickr.com/9/8065/8281134679_c45b640286.jpg",
+               "http://c1.staticflickr.com/9/8070/8282189964_75560c3ce2.jpg",
+               "http://c1.staticflickr.com/9/8235/8563602847_6c83c7ebdd.jpg",
+               "http://c1.staticflickr.com/9/8457/8035801191_e7a8084016.jpg",
+               "http://c1.staticflickr.com/9/8522/8610746057_6cb92c4b42.jpg",
+               "http://c1.staticflickr.com/9/8529/8614747540_fcef53a656.jpg",
+               "http://c2.staticflickr.com/2/1453/25622612101_8824e708aa_z.jpg",
+               "http://c2.staticflickr.com/2/1475/25416907290_0451abca95_z.jpg",
+               "http://c2.staticflickr.com/2/1492/25416955740_662d4e689f_z.jpg",
+               "http://c2.staticflickr.com/2/1502/25691602576_bb61c8460e_z.jpg",
+               "http://c2.staticflickr.com/2/1512/25717647665_6a21552484_z.jpg",
+               "http://c2.staticflickr.com/2/1540/25622608131_a49e29ae83_z.jpg",
+               "http://c2.staticflickr.com/2/1541/25091073453_a9ab6a40bd_z.jpg",
+               "http://c2.staticflickr.com/2/1570/25717671255_c8d0d0318c_z.jpg",
+               "http://c2.staticflickr.com/2/1592/25091020233_172ab99eb7_z.jpg",
+               "http://c2.staticflickr.com/2/1592/25091049453_3c062001f4_z.jpg",
+               "http://c2.staticflickr.com/2/1646/25622623691_68b3f72e16_z.jpg",
+               "http://c2.staticflickr.com/2/1657/25596677742_1573d67efc_z.jpg",
+               "http://c2.staticflickr.com/2/1672/25622609151_36b7c3aa80_z.jpg",
+               "http://c2.staticflickr.com/2/1682/25717676065_bf59856e9d_z.jpg",
+               "http://c2.staticflickr.com/2/1699/25087258704_a6d387062a_z.jpg",
+               "http://c2.staticflickr.com/2/1714/25087245444_347031de7f_z.jpg",
+               "http://c2.staticflickr.com/4/3022/2857399782_7f57d9d2d2.jpg",
+               "http://c2.staticflickr.com/4/3028/2884775458_d305d66eff.jpg",
+               "http://c2.staticflickr.com/4/3042/2968927510_af4be7a506.jpg",
+               "http://c2.staticflickr.com/4/3047/2882199791_cb5e3477b9.jpg",
+               "http://c2.staticflickr.com/4/3055/2900090124_df4cbfdd6c_o.jpg",
+               "http://c2.staticflickr.com/4/3139/2955381696_4605fb98c2.jpg",
+               "http://c2.staticflickr.com/4/3201/2865040301_6ebdf5fd22.jpg",
+               "http://c2.staticflickr.com/4/3203/3052374896_08919f68ae.jpg",
+               "http://c2.staticflickr.com/4/3269/2857669608_f01ffeb82f.jpg",
+               "http://c2.staticflickr.com/4/3361/4562201432_60c279301d.jpg",
+               "http://c2.staticflickr.com/4/3445/3696114046_34075570dc_o.jpg",
+               "http://c2.staticflickr.com/4/3474/3200179755_d15b800e64.jpg",
+               "http://c2.staticflickr.com/4/3542/3300023184_30a918554f.jpg",
+               "http://c2.staticflickr.com/4/3579/3550407777_671a2548d1_o.jpg",
+               "http://c2.staticflickr.com/6/5039/5898433982_37a17afdd3.jpg",
+               "http://c2.staticflickr.com/6/5080/5898434294_ca6e034de1.jpg",
+               "http://crowdin.net/project/playerpro",
+               "http://farm4.static.flickr.com/3039/2885713243_255825cdba.jpg",
+               "http://farm4.static.flickr.com/3053/3071302185_7d8510f2bc.jpg",
+               "http://farm4.static.flickr.com/3066/3072709466_d1418dfda3.jpg",
+               "http://farm4.static.flickr.com/3069/3048906508_a10974d1f0.jpg",
+               "http://farm4.static.flickr.com/3099/2883339368_239362d30d.jpg",
+               "http://farm4.static.flickr.com/3152/2877609305_ef58dd72d2.jpg",
+               "http://farm4.static.flickr.com/3173/2872826492_368c4019f8.jpg",
+               "http://farm4.static.flickr.com/3175/2880312363_95fcac3004.jpg",
+               "http://farm4.static.flickr.com/3216/2952340736_120cc85477_m.jpg",
+               "http://farm4.static.flickr.com/3223/3065888060_f486f49e33.jpg",
+               "http://farm4.static.flickr.com/3225/3069370938_c3cf5a9ebf.jpg",
+               "http://farm4.static.flickr.com/3228/2855402524_ab7f42ddd8.jpg",
+               "http://farm4.static.flickr.com/3240/2866189256_96384a9673.jpg",
+               "http://farm4.static.flickr.com/3243/2870996103_1ee7107400.jpg",
+               "http://farm4.static.flickr.com/3310/4591300893_83c1ecb7e8.jpg",
+               "http://farm4.static.flickr.com/3350/3203199974_d1e849c46c.jpg",
+               "http://farm4.static.flickr.com/3441/3369645012_8b3864db61.jpg",
+               "http://farm4.static.flickr.com/3478/3906358823_332fe46b1e.jpg",
+               "http://farm4.static.flickr.com/3522/3467635877_e31c3ccfff.jpg",
+               "http://farm4.static.flickr.com/3553/3468463460_3d85991804.jpg",
+               "http://farm4.static.flickr.com/3599/3696114496_b6a3446c32.jpg",
+               "http://farm4.staticflickr.com/3028/2873880340_8e4ee63c19.jpg",
+               "http://farm4.staticflickr.com/3111/2850690895_e028cbaa78.jpg",
+               "http://farm4.staticflickr.com/3118/3209052876_974200231f.jpg",
+               "http://farm4.staticflickr.com/3139/2859321007_c9aca62951.jpg",
+               "http://farm4.staticflickr.com/3145/3048910754_73d425ca00.jpg",
+               "http://farm4.staticflickr.com/3181/3047871409_9da927f4e8.jpg",
+               "http://farm4.staticflickr.com/3206/3067243302_8e3c8a317b.jpg",
+               "http://farm4.staticflickr.com/3207/3070091220_18ea93f645.jpg",
+               "http://farm4.staticflickr.com/3210/2883979041_997f5fffe5.jpg",
+               "http://farm4.staticflickr.com/3277/3065538057_3335854229.jpg",
+               "http://farm4.staticflickr.com/3289/3029892055_b92dde2ab7.jpg",
+               "http://farm4.staticflickr.com/3302/3316605635_4d198668ed.jpg",
+               "http://farm4.staticflickr.com/3405/4599589513_94eace8e92.jpg",
+               "http://farm4.staticflickr.com/3523/3909481883_f42311e635.jpg",
+               "http://farm5.static.flickr.com/4001/4205190215_9c62efe2a6.jpg",
+               "http://farm5.static.flickr.com/4115/4868428953_516a0b3947.jpg",
+               "http://farm5.staticflickr.com/4059/4429027135_db91f5d15c.jpg",
+               "http://farm6.staticflickr.com/5200/5898434558_588f3e791c.jpg",
+               "http://farm8.staticflickr.com/7019/6401603607_af3debb87b.jpg",
+               "http://last.fm",
+               "http://lyr.cx/r/droid-plugin?referrer=%s",
+               "http://musicbrainz.org",
+               "http://play.google.com/store/apps/",
+               "http://psdev.de/LicensesDialog",
+               "http://schemas.android.com/apk/res/android",
+               "http://www.aplayerpro.com/faq.html",
+               "http://www.aplayerpro.com/forum/",
+               "http://www.example.com",
+               "http://www.facebook.com",
+               "http://www.google.com",
+               "http://www.google.com/search?q=",
+               "http://www.id3.org/dummy/ufid.html",
+               "http://www.w3.org/ns/ttml#parameter",
+               "http://xmlpull.org/v1/doc/features.html#process-namespaces",
+               "https://",
+               "https://api.flickr.com/services/rest/?method=flickr.groups.pools.getPhotos"
+            ]
+         },
+         "magic": "Zip archive data, at least v2.0 to extract",
+         "last_analysis_stats": {
+            "harmless": 0,
+            "type-unsupported": 10,
+            "suspicious": 0,
+            "confirmed-timeout": 0,
+            "timeout": 0,
+            "failure": 1,
+            "malicious": 0,
+            "undetected": 62
+         },
+         "meaningful_name": "976737_fc108e_com.tbig.playerprotrial_4.81_169.apk",
+         "reputation": 0
+      },
+      "type": "file",
+      "id": "e1964b03c67d48b64b135cd24fe80e2281f4ce3e11bf32446110774572e27ea3",
+      "links": {
+         "self": "https://www.virustotal.com/api/v3/files/e1964b03c67d48b64b135cd24fe80e2281f4ce3e11bf32446110774572e27ea3"
+      }
+   }
+}

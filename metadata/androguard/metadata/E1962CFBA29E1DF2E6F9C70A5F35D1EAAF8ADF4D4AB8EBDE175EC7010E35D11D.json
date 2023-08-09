@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1962CFBA29E1DF2E6F9C70A5F35D1EAAF8ADF4D4AB8EBDE175EC7010E35D11D",
+    "APP_NAME": "\u7f8e\u56e2\u51fa\u79df\u53f8\u673a",
+    "PACKAGE": "com.meituan.taxi.android",
+    "TARGET_API": 26,
+    "MIN_API": 22
+}

@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1965A579826D15A388C1B0A398CAF443B6B2A7C4D29DBA866127A5CDA74DA98",
+    "APP_NAME": "Recetas de cocina",
+    "PACKAGE": "com.eoi.recetas",
+    "TARGET_API": 16,
+    "MIN_API": 7
+}

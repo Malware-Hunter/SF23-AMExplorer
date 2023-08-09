@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1964B03C67D48B64B135CD24FE80E2281F4CE3E11BF32446110774572E27EA3",
+    "APP_NAME": "PlayerPro",
+    "PACKAGE": "com.tbig.playerprotrial",
+    "TARGET_API": 25,
+    "MIN_API": 14
+}

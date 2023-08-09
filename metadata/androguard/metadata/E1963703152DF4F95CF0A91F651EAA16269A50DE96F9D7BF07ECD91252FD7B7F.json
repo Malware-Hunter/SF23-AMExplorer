@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1963703152DF4F95CF0A91F651EAA16269A50DE96F9D7BF07ECD91252FD7B7F",
+    "APP_NAME": "Battery Saver",
+    "PACKAGE": "netroken.android.rocket",
+    "TARGET_API": 31,
+    "MIN_API": 21
+}

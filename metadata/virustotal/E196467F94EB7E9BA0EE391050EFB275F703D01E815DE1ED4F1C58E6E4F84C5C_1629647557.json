@@ -1,0 +1,977 @@
+{
+   "data": {
+      "attributes": {
+         "type_description": "Android",
+         "tlsh": "T19F163363B8997814C272803083591287EDA86FD4682FCB67925CB09C7CBBD47BBD179D",
+         "vhash": "6f981851f145179f1cf7f2aad0ad50c3",
+         "type_tags": [
+            "executable",
+            "mobile",
+            "android",
+            "apk"
+         ],
+         "names": [
+            "com.appsamimanera.rockmusic.apk"
+         ],
+         "last_modification_date": 1629654867,
+         "type_tag": "android",
+         "times_submitted": 1,
+         "total_votes": {
+            "harmless": 0,
+            "malicious": 0
+         },
+         "size": 4243324,
+         "type_extension": "apk",
+         "last_submission_date": 1539964703,
+         "last_analysis_results": {
+            "Bkav": {
+               "category": "undetected",
+               "engine_name": "Bkav",
+               "engine_version": "1.3.0.9899",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Lionic": {
+               "category": "undetected",
+               "engine_name": "Lionic",
+               "engine_version": "4.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Elastic": {
+               "category": "type-unsupported",
+               "engine_name": "Elastic",
+               "engine_version": "4.0.27",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210805"
+            },
+            "MicroWorld-eScan": {
+               "category": "undetected",
+               "engine_name": "MicroWorld-eScan",
+               "engine_version": "14.0.409.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "FireEye": {
+               "category": "undetected",
+               "engine_name": "FireEye",
+               "engine_version": "32.44.1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "CAT-QuickHeal": {
+               "category": "undetected",
+               "engine_name": "CAT-QuickHeal",
+               "engine_version": "14.00",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "ALYac": {
+               "category": "undetected",
+               "engine_name": "ALYac",
+               "engine_version": "1.1.3.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Malwarebytes": {
+               "category": "undetected",
+               "engine_name": "Malwarebytes",
+               "engine_version": "4.2.2.27",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "VIPRE": {
+               "category": "undetected",
+               "engine_name": "VIPRE",
+               "engine_version": "94934",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Paloalto": {
+               "category": "type-unsupported",
+               "engine_name": "Paloalto",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Trustlook": {
+               "category": "undetected",
+               "engine_name": "Trustlook",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Alibaba": {
+               "category": "undetected",
+               "engine_name": "Alibaba",
+               "engine_version": "0.3.0.5",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190527"
+            },
+            "K7GW": {
+               "category": "undetected",
+               "engine_name": "K7GW",
+               "engine_version": "11.206.38071",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "K7AntiVirus": {
+               "category": "undetected",
+               "engine_name": "K7AntiVirus",
+               "engine_version": "11.206.38071",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Arcabit": {
+               "category": "undetected",
+               "engine_name": "Arcabit",
+               "engine_version": "1.0.0.886",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Baidu": {
+               "category": "undetected",
+               "engine_name": "Baidu",
+               "engine_version": "1.0.0.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20190318"
+            },
+            "Cyren": {
+               "category": "undetected",
+               "engine_name": "Cyren",
+               "engine_version": "6.3.0.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "SymantecMobileInsight": {
+               "category": "undetected",
+               "engine_name": "SymantecMobileInsight",
+               "engine_version": "2.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210126"
+            },
+            "Symantec": {
+               "category": "undetected",
+               "engine_name": "Symantec",
+               "engine_version": "1.15.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210821"
+            },
+            "ESET-NOD32": {
+               "category": "undetected",
+               "engine_name": "ESET-NOD32",
+               "engine_version": "23835",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "APEX": {
+               "category": "type-unsupported",
+               "engine_name": "APEX",
+               "engine_version": "6.200",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "TrendMicro-HouseCall": {
+               "category": "undetected",
+               "engine_name": "TrendMicro-HouseCall",
+               "engine_version": "10.0.0.1040",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Avast": {
+               "category": "undetected",
+               "engine_name": "Avast",
+               "engine_version": "21.1.5827.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "ClamAV": {
+               "category": "undetected",
+               "engine_name": "ClamAV",
+               "engine_version": "0.103.3.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Kaspersky": {
+               "category": "undetected",
+               "engine_name": "Kaspersky",
+               "engine_version": "21.0.1.45",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "BitDefender": {
+               "category": "undetected",
+               "engine_name": "BitDefender",
+               "engine_version": "7.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "NANO-Antivirus": {
+               "category": "undetected",
+               "engine_name": "NANO-Antivirus",
+               "engine_version": "1.0.146.25311",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "SUPERAntiSpyware": {
+               "category": "undetected",
+               "engine_name": "SUPERAntiSpyware",
+               "engine_version": "5.6.0.1032",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210821"
+            },
+            "Tencent": {
+               "category": "malicious",
+               "engine_name": "Tencent",
+               "engine_version": "1.0.0.1",
+               "result": "a.gray.inventor.a",
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Ad-Aware": {
+               "category": "undetected",
+               "engine_name": "Ad-Aware",
+               "engine_version": "3.0.21.179",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Sophos": {
+               "category": "undetected",
+               "engine_name": "Sophos",
+               "engine_version": "1.3.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Comodo": {
+               "category": "undetected",
+               "engine_name": "Comodo",
+               "engine_version": "33827",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "F-Secure": {
+               "category": "undetected",
+               "engine_name": "F-Secure",
+               "engine_version": "12.0.86.52",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "DrWeb": {
+               "category": "undetected",
+               "engine_name": "DrWeb",
+               "engine_version": "7.0.49.9080",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Zillya": {
+               "category": "undetected",
+               "engine_name": "Zillya",
+               "engine_version": "2.0.0.4434",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210820"
+            },
+            "TrendMicro": {
+               "category": "undetected",
+               "engine_name": "TrendMicro",
+               "engine_version": "11.0.0.1006",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "McAfee-GW-Edition": {
+               "category": "undetected",
+               "engine_name": "McAfee-GW-Edition",
+               "engine_version": "v2019.1.2+3728",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210821"
+            },
+            "SentinelOne": {
+               "category": "type-unsupported",
+               "engine_name": "SentinelOne",
+               "engine_version": "6.1.0.4",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210805"
+            },
+            "Trapmine": {
+               "category": "type-unsupported",
+               "engine_name": "Trapmine",
+               "engine_version": "3.5.0.1023",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20200727"
+            },
+            "CMC": {
+               "category": "undetected",
+               "engine_name": "CMC",
+               "engine_version": "2.10.2019.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210816"
+            },
+            "Emsisoft": {
+               "category": "undetected",
+               "engine_name": "Emsisoft",
+               "engine_version": "2021.4.0.5819",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Ikarus": {
+               "category": "undetected",
+               "engine_name": "Ikarus",
+               "engine_version": "0.1.5.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Avast-Mobile": {
+               "category": "undetected",
+               "engine_name": "Avast-Mobile",
+               "engine_version": "210822-00",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Jiangmin": {
+               "category": "undetected",
+               "engine_name": "Jiangmin",
+               "engine_version": "16.0.100",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210821"
+            },
+            "Webroot": {
+               "category": "type-unsupported",
+               "engine_name": "Webroot",
+               "engine_version": "1.0.0.403",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Avira": {
+               "category": "undetected",
+               "engine_name": "Avira",
+               "engine_version": "8.3.3.12",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "eGambit": {
+               "category": "type-unsupported",
+               "engine_name": "eGambit",
+               "engine_version": null,
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Antiy-AVL": {
+               "category": "undetected",
+               "engine_name": "Antiy-AVL",
+               "engine_version": "3.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Kingsoft": {
+               "category": "undetected",
+               "engine_name": "Kingsoft",
+               "engine_version": "2017.9.26.565",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Gridinsoft": {
+               "category": "undetected",
+               "engine_name": "Gridinsoft",
+               "engine_version": "1.0.52.145",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Microsoft": {
+               "category": "undetected",
+               "engine_name": "Microsoft",
+               "engine_version": "1.1.18500.9",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "ViRobot": {
+               "category": "undetected",
+               "engine_name": "ViRobot",
+               "engine_version": "2014.3.20.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "ZoneAlarm": {
+               "category": "undetected",
+               "engine_name": "ZoneAlarm",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "GData": {
+               "category": "undetected",
+               "engine_name": "GData",
+               "engine_version": "A:25.30634B:27.24184",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Cynet": {
+               "category": "undetected",
+               "engine_name": "Cynet",
+               "engine_version": "4.0.0.27",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "BitDefenderFalx": {
+               "category": "undetected",
+               "engine_name": "BitDefenderFalx",
+               "engine_version": "2.0.936",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210610"
+            },
+            "AhnLab-V3": {
+               "category": "undetected",
+               "engine_name": "AhnLab-V3",
+               "engine_version": "3.20.4.10148",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Acronis": {
+               "category": "type-unsupported",
+               "engine_name": "Acronis",
+               "engine_version": "1.1.1.82",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210512"
+            },
+            "McAfee": {
+               "category": "undetected",
+               "engine_name": "McAfee",
+               "engine_version": "6.0.6.653",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "MAX": {
+               "category": "undetected",
+               "engine_name": "MAX",
+               "engine_version": "2019.9.16.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "VBA32": {
+               "category": "undetected",
+               "engine_name": "VBA32",
+               "engine_version": "5.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210820"
+            },
+            "Cylance": {
+               "category": "type-unsupported",
+               "engine_name": "Cylance",
+               "engine_version": "2.3.1.101",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Zoner": {
+               "category": "undetected",
+               "engine_name": "Zoner",
+               "engine_version": "0.0.0.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210821"
+            },
+            "Rising": {
+               "category": "undetected",
+               "engine_name": "Rising",
+               "engine_version": "25.0.0.26",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "Yandex": {
+               "category": "undetected",
+               "engine_name": "Yandex",
+               "engine_version": "5.5.2.24",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210820"
+            },
+            "TACHYON": {
+               "category": "undetected",
+               "engine_name": "TACHYON",
+               "engine_version": "2021-08-22.02",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "MaxSecure": {
+               "category": "undetected",
+               "engine_name": "MaxSecure",
+               "engine_version": "1.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210821"
+            },
+            "Fortinet": {
+               "category": "undetected",
+               "engine_name": "Fortinet",
+               "engine_version": "6.2.142.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "BitDefenderTheta": {
+               "category": "undetected",
+               "engine_name": "BitDefenderTheta",
+               "engine_version": "7.2.37796.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210816"
+            },
+            "Cybereason": {
+               "category": "type-unsupported",
+               "engine_name": "Cybereason",
+               "engine_version": "1.2.449",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210330"
+            },
+            "Panda": {
+               "category": "undetected",
+               "engine_name": "Panda",
+               "engine_version": "4.6.4.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210822"
+            },
+            "CrowdStrike": {
+               "category": "type-unsupported",
+               "engine_name": "CrowdStrike",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20210203"
+            }
+         },
+         "trid": [
+            {
+               "file_type": "Android Package",
+               "probability": 50.3
+            },
+            {
+               "file_type": "Java Enterprise Archive",
+               "probability": 25.4
+            },
+            {
+               "file_type": "Java Archive",
+               "probability": 17.6
+            },
+            {
+               "file_type": "ZIP compressed archive",
+               "probability": 5.2
+            },
+            {
+               "file_type": "PrintFox/Pagefox bitmap (640x800)",
+               "probability": 1.3
+            }
+         ],
+         "sha256": "e196467f94eb7e9ba0ee391050efb275f703d01e815de1ed4f1c58e6e4f84c5c",
+         "tags": [
+            "apk",
+            "android"
+         ],
+         "last_analysis_date": 1629647557,
+         "unique_sources": 1,
+         "first_submission_date": 1539964703,
+         "sha1": "6f8594676b681f9f1a58ad774fec31c53c1c4625",
+         "ssdeep": "98304:s6s7G6qeVNaOPpW6BSmNUIxdoPYKgWnPJLIWhqKJbsDwOw5pifa5GDH:pOasEmNUIxePYKgWuufJYcr5pifacDH",
+         "bundle_info": {
+            "highest_datetime": "2018-09-10 23:12:42",
+            "lowest_datetime": "1980-01-01 00:00:00",
+            "num_children": 160,
+            "extensions": {
+               "xml": 58,
+               "dex": 2,
+               "MF": 1,
+               "jar": 2,
+               "RSA": 1,
+               "jpg": 2,
+               "ttf": 2,
+               "SF": 1,
+               "png": 87
+            },
+            "file_types": {
+               "XML": 58,
+               "DEX": 2,
+               "ZIP": 2,
+               "unknown": 9,
+               "JPG": 2,
+               "PNG": 87
+            },
+            "type": "APK",
+            "uncompressed_size": 9825692
+         },
+         "md5": "ba6c5ab1ed81edb7ac0cbb1d2c665bdc",
+         "androguard": {
+            "VTAndroidInfo": 1.41,
+            "AndroidApplicationError": false,
+            "MinSdkVersion": "21",
+            "AndroguardVersion": "3.0-dev",
+            "Activities": [
+               "com.appybuilder.appsamimanera.RockMusicApps.Screen1",
+               "com.onesignal.PermissionsActivity",
+               "com.google.android.gms.ads.AdActivity"
+            ],
+            "certificate": {
+               "Subject": {
+                  "DN": "C:US, CN:appsamimanera@gmail.com, O:AppInventor for Android",
+                  "C": "US",
+                  "CN": "appsamimanera@gmail.com",
+                  "O": "AppInventor for Android"
+               },
+               "validto": "2045-06-27 22:27:17",
+               "serialnumber": "36df919f",
+               "thumbprint": "459f14bb9a12c458c0343fe7626dd676472a52bb",
+               "validfrom": "2018-02-09 22:27:17",
+               "Issuer": {
+                  "DN": "C:US, CN:appsamimanera@gmail.com, O:AppInventor for Android",
+                  "C": "US",
+                  "CN": "appsamimanera@gmail.com",
+                  "O": "AppInventor for Android"
+               }
+            },
+            "AndroidApplication": 1,
+            "RiskIndicator": {
+               "APK": {
+                  "DEX": 2,
+                  "ZIP": 2
+               },
+               "PERM": {
+                  "DANGEROUS": 1,
+                  "SIGNATURE": 1,
+                  "NORMAL": 7,
+                  "INTERNET": 1
+               }
+            },
+            "Services": [
+               "com.onesignal.GcmIntentService",
+               "com.onesignal.SyncService",
+               "com.onesignal.NotificationRestoreService",
+               "com.onesignal.SyncJobService"
+            ],
+            "AndroidVersionCode": "1",
+            "main_activity": "com.appybuilder.appsamimanera.RockMusicApps.Screen1",
+            "Package": "com.appsamimanera.rockmusic",
+            "intent_filters": {
+               "Activities": {
+                  "com.appybuilder.appsamimanera.RockMusicApps.Screen1": {
+                     "action": [
+                        "android.intent.action.MAIN"
+                     ],
+                     "category": [
+                        "android.intent.category.LAUNCHER"
+                     ]
+                  }
+               },
+               "Receivers": {
+                  "com.onesignal.GcmBroadcastReceiver": {
+                     "action": [
+                        "com.google.android.c2dm.intent.RECEIVE"
+                     ],
+                     "category": [
+                        "com.appybuilder.appsamimanera.RockMusicApps"
+                     ]
+                  },
+                  "com.onesignal.BootUpReceiver": {
+                     "action": [
+                        "android.intent.action.BOOT_COMPLETED",
+                        "android.intent.action.QUICKBOOT_POWERON"
+                     ]
+                  },
+                  "com.onesignal.UpgradeReceiver": {
+                     "action": [
+                        "android.intent.action.MY_PACKAGE_REPLACED"
+                     ]
+                  }
+               }
+            },
+            "AndroidVersionName": "1.11",
+            "TargetSdkVersion": "26",
+            "AndroidApplicationInfo": "APK",
+            "Providers": [
+               "android.support.v4.content.FileProvider"
+            ],
+            "permission_details": {
+               "android.permission.VIBRATE": {
+                  "short_description": "control vibrator",
+                  "full_description": "Allows the application to control the vibrator.",
+                  "permission_type": "normal"
+               },
+               "com.huawei.android.launcher.permission.WRITE_SETTINGS": {
+                  "short_description": "modify global system settings",
+                  "full_description": "Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration.",
+                  "permission_type": "normal"
+               },
+               "android.permission.RECEIVE_BOOT_COMPLETED": {
+                  "short_description": "automatically start at boot",
+                  "full_description": "Allows an application to start itself as soon as the system has finished booting. This can make it take longer to start the phone and allow the application to slow down the overall phone by always running.",
+                  "permission_type": "normal"
+               },
+               "com.htc.launcher.permission.UPDATE_SHORTCUT": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.huawei.android.launcher.permission.READ_SETTINGS": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.sec.android.provider.badge.permission.READ": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.appybuilder.appsamimanera.RockMusicApps.permission.C2D_MESSAGE": {
+                  "short_description": "C2DM permission.",
+                  "full_description": "C2DM permission.",
+                  "permission_type": "signature"
+               },
+               "com.majeur.launcher.permission.UPDATE_BADGE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.READ_EXTERNAL_STORAGE": {
+                  "short_description": "read from external storage",
+                  "full_description": "Allows an application to read from external storage",
+                  "permission_type": "normal"
+               },
+               "android.permission.ACCESS_NETWORK_STATE": {
+                  "short_description": "view network status",
+                  "full_description": "Allows an application to view the status of all networks.",
+                  "permission_type": "normal"
+               },
+               "com.google.android.c2dm.permission.RECEIVE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.WAKE_LOCK": {
+                  "short_description": "prevent phone from sleeping",
+                  "full_description": "Allows an application to prevent the phone from going to sleep.",
+                  "permission_type": "normal"
+               },
+               "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.huawei.android.launcher.permission.CHANGE_BADGE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.ACCESS_WIFI_STATE": {
+                  "short_description": "view Wi-Fi status",
+                  "full_description": "Allows an application to view the information about the status of Wi-Fi.",
+                  "permission_type": "normal"
+               },
+               "android.permission.INTERNET": {
+                  "short_description": "full Internet access",
+                  "full_description": "Allows an application to create network sockets.",
+                  "permission_type": "dangerous"
+               },
+               "com.htc.launcher.permission.READ_SETTINGS": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.sonyericsson.home.permission.BROADCAST_BADGE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "com.sec.android.provider.badge.permission.WRITE": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               },
+               "android.permission.WRITE_EXTERNAL_STORAGE": {
+                  "short_description": "modify/delete SD card contents",
+                  "full_description": "Allows an application to write to the SD card.",
+                  "permission_type": "dangerous"
+               },
+               "com.anddoes.launcher.permission.UPDATE_COUNT": {
+                  "short_description": "Unknown permission from android reference",
+                  "full_description": "Unknown permission from android reference",
+                  "permission_type": "normal"
+               }
+            },
+            "Receivers": [
+               "com.onesignal.GcmBroadcastReceiver",
+               "com.onesignal.NotificationOpenedReceiver",
+               "com.onesignal.BootUpReceiver",
+               "com.onesignal.UpgradeReceiver"
+            ],
+            "StringsInformation": [
+               "http://rosetta.shoutca.st:9411/;",
+               "http://www.w3.org/2001/XMLSchema-instance",
+               "http://online-radioroks2.tavrmedia.ua/RadioROKS_Ballads",
+               "https://storage.googleapis.com/musiquerock/Rock7.mp3",
+               "http://strm112.1.fm/x_mobile_mp3",
+               "https://translate.yandex.net/api/v1.5/tr.json/translate?key=",
+               "https://storage.googleapis.com/musiquerock/Rock15.mp3",
+               "https://auth.firebase.com/",
+               "http://edge1.peta.live365.net/b98356_128mp3",
+               "http://edge4.peta.live365.net/b85426_128mp3",
+               "http://19763.live.streamtheworld.com:3690/977_90_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime",
+               "http://live.leanstream.co/CJDVFM-MP3?tunein",
+               "http://www.w3.org/2005/xqt-errors",
+               "https://www.googleapis.com/auth/fusiontables",
+               "https://storage.googleapis.com/musiquerock/Rock14.mp3",
+               "https://storage.googleapis.com/musiquerock/Rock13.mp3",
+               "http://media-ice.musicradio.com/ArrowMP3",
+               "http://ai-mediaservice.appspot.com",
+               "https://storage.googleapis.com/musiquerock/Rock18.mp3",
+               "http://online-radioroks2.tavrmedia.ua/RadioROKS_HardnHeavy",
+               "https://www.googleapis.com/fusiontables/v2/tables?key=",
+               "http://radioserver9.profesionalhosting.com:8042/;stream",
+               "http://19353.live.streamtheworld.com:3690/977_80_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime",
+               "https://www.googleapis.com/fusiontables/v2/tables",
+               "http://38.107.243.221:8430/stream",
+               "http://appsamimanera.blogspot.com.co/2017/10/privacy-policy-for-mobile-applications.html",
+               "http://icy3.abacast.com/powell-kkmafmmp3-64?source=TuneIn&amp;source=TuneIn&amp;source=TuneIn",
+               "https://docs.google.com/spreadsheet/formResponse?formkey=%s&ifq",
+               "https://nebcoradio.com:8443/WXRV",
+               "http://www.w3.org/1999/xhtml",
+               "http://addrad.io/4WRLM9",
+               "https://appybuilder-5762b.firebaseio.com/",
+               "http://gnu.org/kawa/cached-collections",
+               "http://appinvgameserver.appspot.com",
+               "https://storage.googleapis.com/musiquerock/Rock11.mp3",
+               "http://www.w3.org/2005/xquery-local-functions",
+               "https://storage.googleapis.com/musiquerock/Rock2.mp3",
+               "http://www.w3.org/1999/XSL/Transform",
+               "https://storage.googleapis.com/musiquerock/Rock12.mp3",
+               "http://rock90s.stream.ouifm.fr/ouifmnineties.mp3",
+               "http://www.w3.org/2001/XMLSchema",
+               "https://storage.googleapis.com/musiquerock/Rock10.mp3",
+               "http://50.7.99.163:11067/256",
+               "https://storage.googleapis.com/musiquerock/Rock20.mp3",
+               "http://appinvtinywebdb.appspot.com",
+               "http://edge1.peta.live365.net/b24798_128mp3",
+               "https://storage.googleapis.com/musiquerock/Rock3.mp3",
+               "http://www.w3.org/2005/xpath-functions",
+               "http://16083.live.streamtheworld.com:3690/WKRRFM_SC?dist=Tunein&dist=Tunein&dist=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNyd",
+               "http://kawa.gnu.org/",
+               "http://appinvtinywebdb.appspot.com/",
+               "http://195.55.74.208/cope/rockfm-low.mp3?GKID=470ff930a40011e882d100163e914f69",
+               "http://www.w3.org/XML/1998/namespace",
+               "https://www.google.com/voice/b/0/sms/send/",
+               "https://storage.googleapis.com/musiquerock/Rock4.mp3",
+               "http://www.w3.org/2000/xmlns/",
+               "https://play.google.com/store/apps/details?id=com.appsamimanera.rockmusic",
+               "http://listen.181fm.com/181-hairband_128k.mp3?noPreRoll=true",
+               "http://androvote.appspot.com",
+               "https://www.google.com/voice/b/0",
+               "http://www.w3.org/2005/xpath-functions/collation/codepoint",
+               "http://live.leanstream.co/CJKRFM-MP3?tunein",
+               "http://edge1.peta.live365.net/b94307_128mp3",
+               "https://storage.googleapis.com/musiquerock/Rock17.mp3",
+               "http://www.appybuilder.com/extensions/icons/extensionIcon.png",
+               "http://kawa.gnu.org/unit",
+               "https://onesignal.com/api/v1/",
+               "https://adservice.google.com/getconfig/pubvendors",
+               "http://rawlco.leanstream.co/CJDJFM-MP3?args=tunein_01",
+               "http://voltscdn.weebly.com/uploads/2/0/8/1/20817010/idea.png",
+               "https://storage.googleapis.com/musiquerock/Rock8.mp3",
+               "http://ice24.securenetsystems.net/KPKY",
+               "http://online-radioroks2.tavrmedia.ua/RadioROKS_NewRock",
+               "https://abprivate-67d2a.firebaseio.com/",
+               "http://my.image.server/images/%d/%d/%d.png",
+               "http://qexo.gnu.org/",
+               "https://storage.googleapis.com/musiquerock/Rock6.mp3",
+               "https://storage.googleapis.com/musiquerock/Rock1.mp3",
+               "http://www.google.com/fusiontables/v2/query",
+               "https://storage.googleapis.com/musiquerock/Rock5.mp3",
+               "https://onesignal.com/android_frame.html",
+               "http://cassini.shoutca.st:9300/stream",
+               "https://storage.googleapis.com/musiquerock/Rock19.mp3",
+               "https://storage.googleapis.com/musiquerock/Rock9.mp3",
+               "http://live.leanstream.co/CJTNFM-MP3?tunein",
+               "http://kawa.gnu.org/unknown-namespace/",
+               "https://storage.googleapis.com/musiquerock/Rock16.mp3",
+               "http://162.243.127.245:8001/kfmuic",
+               "http://strm112.1.fm/rockclassics_mobile_mp3"
+            ]
+         },
+         "magic": "Zip archive data, at least v2.0 to extract",
+         "last_analysis_stats": {
+            "harmless": 0,
+            "type-unsupported": 11,
+            "suspicious": 0,
+            "confirmed-timeout": 0,
+            "timeout": 0,
+            "failure": 0,
+            "malicious": 1,
+            "undetected": 60
+         },
+         "meaningful_name": "com.appsamimanera.rockmusic.apk",
+         "reputation": 0
+      },
+      "type": "file",
+      "id": "e196467f94eb7e9ba0ee391050efb275f703d01e815de1ed4f1c58e6e4f84c5c",
+      "links": {
+         "self": "https://www.virustotal.com/api/v3/files/e196467f94eb7e9ba0ee391050efb275f703d01e815de1ed4f1c58e6e4f84c5c"
+      }
+   }
+}

@@ -1,0 +1,658 @@
+{
+   "data": {
+      "attributes": {
+         "type_description": "Android",
+         "vhash": "38aecc0b39a763f963e55ad4c8e43019",
+         "type_tags": [
+            "executable",
+            "mobile",
+            "android",
+            "apk"
+         ],
+         "names": [
+            "1280845390_S-Finanzstatus_1.5.0.apk",
+            "S-Finanzstatus_1.5.0.apk",
+            "opt_library_stores_FreewareLovers_1280845390_S_Finanzstatus_1.5.0849_KB.apk",
+            "_home_android_apps_freewarelovers_crawler_crawl_2011_08_04_1711_1280845390_S_Finanzstatus_1.5.0.apk"
+         ],
+         "last_modification_date": 1458660923,
+         "type_tag": "android",
+         "times_submitted": 14,
+         "total_votes": {
+            "harmless": 0,
+            "malicious": 0
+         },
+         "size": 869106,
+         "type_extension": "apk",
+         "last_submission_date": 1435275516,
+         "last_analysis_results": {
+            "Bkav": {
+               "category": "undetected",
+               "engine_name": "Bkav",
+               "engine_version": "1.3.0.7744",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "Lionic": {
+               "category": "undetected",
+               "engine_name": "AegisLab",
+               "engine_version": "4.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "TotalDefense": {
+               "category": "undetected",
+               "engine_name": "TotalDefense",
+               "engine_version": "37.1.62.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "MicroWorld-eScan": {
+               "category": "undetected",
+               "engine_name": "MicroWorld-eScan",
+               "engine_version": "12.0.250.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "nProtect": {
+               "category": "undetected",
+               "engine_name": "nProtect",
+               "engine_version": "2016-03-21.01",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "CMC": {
+               "category": "undetected",
+               "engine_name": "CMC",
+               "engine_version": "1.1.0.977",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160316"
+            },
+            "CAT-QuickHeal": {
+               "category": "undetected",
+               "engine_name": "CAT-QuickHeal",
+               "engine_version": "14.00",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "ALYac": {
+               "category": "undetected",
+               "engine_name": "ALYac",
+               "engine_version": "1.0.1.9",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Malwarebytes": {
+               "category": "undetected",
+               "engine_name": "Malwarebytes",
+               "engine_version": "2.1.1.1115",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Zillya": {
+               "category": "undetected",
+               "engine_name": "Zillya",
+               "engine_version": "2.0.0.2736",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "TheHacker": {
+               "category": "undetected",
+               "engine_name": "TheHacker",
+               "engine_version": "6.8.0.5.870",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "Alibaba": {
+               "category": "undetected",
+               "engine_name": "Alibaba",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "K7GW": {
+               "category": "undetected",
+               "engine_name": "K7GW",
+               "engine_version": "9.218.19072",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "K7AntiVirus": {
+               "category": "undetected",
+               "engine_name": "K7AntiVirus",
+               "engine_version": "9.218.19071",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "Arcabit": {
+               "category": "undetected",
+               "engine_name": "Arcabit",
+               "engine_version": "1.0.0.662",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Baidu": {
+               "category": "undetected",
+               "engine_name": "Baidu",
+               "engine_version": "1.0.0.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "NANO-Antivirus": {
+               "category": "undetected",
+               "engine_name": "NANO-Antivirus",
+               "engine_version": "1.0.18.7201",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "F-Prot": {
+               "category": "undetected",
+               "engine_name": "F-Prot",
+               "engine_version": "4.7.1.166",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Symantec": {
+               "category": "undetected",
+               "engine_name": "Symantec",
+               "engine_version": "20151.1.0.32",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "ESET-NOD32": {
+               "category": "undetected",
+               "engine_name": "ESET-NOD32",
+               "engine_version": "13214",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "TrendMicro-HouseCall": {
+               "category": "undetected",
+               "engine_name": "TrendMicro-HouseCall",
+               "engine_version": "9.800.0.1009",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Avast": {
+               "category": "undetected",
+               "engine_name": "Avast",
+               "engine_version": "8.0.1489.320",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "ClamAV": {
+               "category": "undetected",
+               "engine_name": "ClamAV",
+               "engine_version": "0.98.5.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160319"
+            },
+            "Kaspersky": {
+               "category": "undetected",
+               "engine_name": "Kaspersky",
+               "engine_version": "15.0.1.13",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "BitDefender": {
+               "category": "undetected",
+               "engine_name": "BitDefender",
+               "engine_version": "7.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Agnitum": {
+               "category": "undetected",
+               "engine_name": "Agnitum",
+               "engine_version": "5.5.1.3",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160316"
+            },
+            "SUPERAntiSpyware": {
+               "category": "undetected",
+               "engine_name": "SUPERAntiSpyware",
+               "engine_version": "5.6.0.1032",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Tencent": {
+               "category": "undetected",
+               "engine_name": "Tencent",
+               "engine_version": "1.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Ad-Aware": {
+               "category": "undetected",
+               "engine_name": "Ad-Aware",
+               "engine_version": "3.0.2.1015",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Emsisoft": {
+               "category": "undetected",
+               "engine_name": "Emsisoft",
+               "engine_version": "3.5.0.656",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Comodo": {
+               "category": "undetected",
+               "engine_name": "Comodo",
+               "engine_version": "24627",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "F-Secure": {
+               "category": "undetected",
+               "engine_name": "F-Secure",
+               "engine_version": "11.0.19100.45",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "DrWeb": {
+               "category": "undetected",
+               "engine_name": "DrWeb",
+               "engine_version": "7.0.17.11230",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "VIPRE": {
+               "category": "undetected",
+               "engine_name": "VIPRE",
+               "engine_version": "48052",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "TrendMicro": {
+               "category": "undetected",
+               "engine_name": "TrendMicro",
+               "engine_version": "9.740.0.1012",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "McAfee-GW-Edition": {
+               "category": "undetected",
+               "engine_name": "McAfee-GW-Edition",
+               "engine_version": "v2015",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Sophos": {
+               "category": "undetected",
+               "engine_name": "Sophos",
+               "engine_version": "4.98.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Cyren": {
+               "category": "undetected",
+               "engine_name": "Cyren",
+               "engine_version": "5.4.16.7",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Jiangmin": {
+               "category": "undetected",
+               "engine_name": "Jiangmin",
+               "engine_version": "16.0.100",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Avira": {
+               "category": "undetected",
+               "engine_name": "Avira",
+               "engine_version": "8.3.3.4",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Antiy-AVL": {
+               "category": "undetected",
+               "engine_name": "Antiy-AVL",
+               "engine_version": "1.0.0.1",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Microsoft": {
+               "category": "undetected",
+               "engine_name": "Microsoft",
+               "engine_version": "1.1.12505.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "ViRobot": {
+               "category": "undetected",
+               "engine_name": "ViRobot",
+               "engine_version": "2014.3.20.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "AhnLab-V3": {
+               "category": "undetected",
+               "engine_name": "AhnLab-V3",
+               "engine_version": "2016.03.22.00",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "GData": {
+               "category": "undetected",
+               "engine_name": "GData",
+               "engine_version": "25",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "ByteHero": {
+               "category": "undetected",
+               "engine_name": "ByteHero",
+               "engine_version": "1.0.0.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "McAfee": {
+               "category": "undetected",
+               "engine_name": "McAfee",
+               "engine_version": "6.0.6.653",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "AVware": {
+               "category": "undetected",
+               "engine_name": "AVware",
+               "engine_version": "1.5.0.42",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "VBA32": {
+               "category": "undetected",
+               "engine_name": "VBA32",
+               "engine_version": "3.12.26.4",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "Baidu-International": {
+               "category": "undetected",
+               "engine_name": "Baidu-International",
+               "engine_version": "3.5.1.41473",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "Zoner": {
+               "category": "undetected",
+               "engine_name": "Zoner",
+               "engine_version": "1.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Rising": {
+               "category": "undetected",
+               "engine_name": "Rising",
+               "engine_version": "25.0.0.18",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Ikarus": {
+               "category": "undetected",
+               "engine_name": "Ikarus",
+               "engine_version": "T3.2.0.9.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "Fortinet": {
+               "category": "undetected",
+               "engine_name": "Fortinet",
+               "engine_version": "5.1.220.0",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            },
+            "AVG": {
+               "category": "undetected",
+               "engine_name": "AVG",
+               "engine_version": "16.0.0.4542",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "Panda": {
+               "category": "undetected",
+               "engine_name": "Panda",
+               "engine_version": "4.6.4.2",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160321"
+            },
+            "Qihoo-360": {
+               "category": "undetected",
+               "engine_name": "Qihoo-360",
+               "engine_version": "1.0.0.1120",
+               "result": null,
+               "method": "blacklist",
+               "engine_update": "20160322"
+            }
+         },
+         "trid": [
+            {
+               "file_type": "Android Package",
+               "probability": 73.9
+            },
+            {
+               "file_type": "Java Archive",
+               "probability": 20.4
+            },
+            {
+               "file_type": "ZIP compressed archive",
+               "probability": 5.6
+            }
+         ],
+         "sha256": "e19635060308083fc2bf0f5f52bc05b34da28afc0efbf757070410ada7e6eb65",
+         "tags": [
+            "apk",
+            "android"
+         ],
+         "last_analysis_date": 1458624836,
+         "unique_sources": 8,
+         "first_submission_date": 1315038698,
+         "sha1": "4fa480be5908886b8d005e5eb44ee6404fa655b6",
+         "ssdeep": "24576:QSqAhl3mjEkZrEsA2Y5MGjFwCoy6zf+8z:Qkhl3mjEkZrEsA2cFFo5zf+8z",
+         "bundle_info": {
+            "highest_datetime": "2010-08-03 15:11:26",
+            "lowest_datetime": "2010-08-03 15:11:14",
+            "num_children": 257,
+            "extensions": {
+               "xml": 82,
+               "dex": 1,
+               "MF": 1,
+               "db": 2,
+               "RSA": 1,
+               "SF": 1,
+               "png": 152
+            },
+            "file_types": {
+               "XML": 82,
+               "unknown": 22,
+               "DEX": 1,
+               "PNG": 152
+            },
+            "type": "APK",
+            "uncompressed_size": 1279994
+         },
+         "packers": {
+            "F-PROT": "UTF-8"
+         },
+         "md5": "9b204d060e5779d5f226bf2090123517",
+         "androguard": {
+            "Activities": [
+               "com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus",
+               "com.starfinanz.smob.android.FeedbackSupportChooseProtocols",
+               "com.starfinanz.smob.android.FeedbackSupport",
+               "com.starfinanz.smob.android.KontoDetails",
+               "com.starfinanz.smob.android.Changelog",
+               "com.starfinanz.smob.android.Kontensortierung",
+               "com.starfinanz.smob.android.Einstellungen",
+               "com.starfinanz.smob.android.Sendeprotokolle",
+               "com.starfinanz.smob.android.Sendeprotokoll",
+               "com.starfinanz.smob.android.UmsatzListe",
+               "com.starfinanz.smob.android.UmsatzDetails",
+               "com.starfinanz.smob.android.UeberweisungEingabe",
+               "com.starfinanz.smob.android.VorlagenListe",
+               "com.starfinanz.smob.android.VorlagenEingabe",
+               "com.starfinanz.smob.android.KontoeinrichtungSchritt1",
+               "com.starfinanz.smob.android.KontoeinrichtungSchritt2",
+               "com.starfinanz.smob.android.KontoeinrichtungSchritt3",
+               "com.starfinanz.smob.android.PinEingabe",
+               "com.starfinanz.smob.android.TanEingabe",
+               "com.starfinanz.smob.android.Kontakt",
+               "com.starfinanz.smob.android.OptischeTan"
+            ],
+            "AndroidVersionCode": "50",
+            "main_activity": "com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus",
+            "certificate": {
+               "thumbprint": "739181F6C461D0EC43D9658450E581357BD195E4",
+               "validfrom": "10:46 AM 10/20/2009",
+               "serialnumber": "4ADD86FB",
+               "Subject": {
+                  "DN": "C=DE, L=Hamburg, O=Star Finanz - Software Entwicklung und Vertriebs GmbH",
+                  "C": "DE",
+                  "E": "",
+                  "CN": "",
+                  "L": "Hamburg",
+                  "O": "Star Finanz - Software Entwicklung und Vertriebs GmbH",
+                  "S": "",
+                  "OU": ""
+               },
+               "Issuer": {
+                  "DN": "C=DE, L=Hamburg, O=Star Finanz - Software Entwicklung und Vertriebs GmbH",
+                  "C": "DE",
+                  "E": "",
+                  "CN": "",
+                  "L": "Hamburg",
+                  "O": "Star Finanz - Software Entwicklung und Vertriebs GmbH",
+                  "S": "",
+                  "OU": ""
+               }
+            },
+            "VTAndroidInfo": 1.41,
+            "Package": "com.starfinanz.smob.android.sfinanzstatus",
+            "intent_filters": {
+               "Services": {},
+               "Activities": {
+                  "com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus": {
+                     "action": [
+                        "android.intent.action.MAIN"
+                     ],
+                     "category": [
+                        "android.intent.category.LAUNCHER"
+                     ]
+                  },
+                  "com.starfinanz.smob.android.UeberweisungEingabe": {
+                     "action": [
+                        "com.starfinanz.MONEY"
+                     ],
+                     "category": [
+                        "android.intent.category.DEFAULT"
+                     ]
+                  }
+               },
+               "Receivers": {}
+            },
+            "AndroidApplication": 1,
+            "permission_details": {
+               "android.permission.INTERNET": {
+                  "short_description": "full Internet access",
+                  "full_description": "Allows an application to create network sockets.",
+                  "permission_type": "dangerous"
+               }
+            },
+            "SourceFile": "r:\\sav6\\work_channel1_6\\23868851",
+            "StringsInformation": [
+               "http://www.starfinanz.de"
+            ],
+            "AndroidApplicationError": false,
+            "AndroidVersionName": "1.5.0",
+            "RiskIndicator": {
+               "APK": {
+                  "DEX": 1
+               },
+               "PERM": {
+                  "INTERNET": 1
+               }
+            },
+            "MinSdkVersion": "3",
+            "TargetSdkVersion": "8",
+            "AndroguardVersion": "2.0",
+            "AndroidApplicationInfo": "APK"
+         },
+         "magic": "Zip archive data, at least v2.0 to extract",
+         "last_analysis_stats": {
+            "harmless": 0,
+            "type-unsupported": 0,
+            "suspicious": 0,
+            "confirmed-timeout": 0,
+            "timeout": 0,
+            "failure": 0,
+            "malicious": 0,
+            "undetected": 57
+         },
+         "meaningful_name": "1280845390_S-Finanzstatus_1.5.0.apk",
+         "reputation": 0
+      },
+      "type": "file",
+      "id": "e19635060308083fc2bf0f5f52bc05b34da28afc0efbf757070410ada7e6eb65",
+      "links": {
+         "self": "https://www.virustotal.com/api/v3/files/e19635060308083fc2bf0f5f52bc05b34da28afc0efbf757070410ada7e6eb65"
+      }
+   }
+}

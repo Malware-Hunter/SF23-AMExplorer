@@ -1,0 +1,7 @@
+{
+    "SHA256": "E1963C0FF4470DC37CCC5D85233A1C7CA17E4DDBC1C33644A95126F632F7358D",
+    "APP_NAME": "Trade\u00a0Republic",
+    "PACKAGE": "de.traderepublic.app",
+    "TARGET_API": 30,
+    "MIN_API": 23
+}
