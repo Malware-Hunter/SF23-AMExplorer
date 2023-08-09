@@ -2,148 +2,66 @@
 
   
 
-![enter image description here](https://github.com/Malware-Hunter/SF23-AMExplorer/blob/main/images/amexplorer.jpeg)
+![Overview](https://github.com/Malware-Hunter/SF23-AMExplorer/blob/main/OVERVIEW.md)
 
-  
 
-## Overview
+## Clonning the GitHub repository
 
-  
-
-This repository houses AMExplorer, an innovative tool for generating datasets. Through the integration of metadata from different sources, such as AndroGuard, which makes it possible to extract information such as application names, permissions and API calls, along with obtaining data from APKs from AndroZoo and scan reports from VirusTotal, this tool produces three distinct types of datasets. These sets encompass comprehensive metadata about applications, binary and discrete information, all built to be used in a variety of contexts, from machine learning enhancement to malware analysis.
-
-  
-  
-
-⚠️⚠️ **Attention, the files must be unzipped before running the tool.** ⚠️⚠️
-
-  
-  
-
-## ⚙️ Automated test tool
-
-  
-
-This script will handle the installation of necessary dependencies, extract the required files, and execute the Python code with the appropriate arguments. It will also provide informative messages during each step of the process.
-
-  
-
-Please make sure you have the appropriate permissions and prerequisites, such as Python 3 and `pip`, to run the automated test successfully. Additionally, ensure that the repository contains the necessary files, including `tool_test.zip` and `amexplorer.py`.
-
-  
-
-**To perform an automated test of the tool, follow these steps in your Linux terminal:**
-
-  
-
-## ✅ Step 1: Clone the repository:
-
-```
+```bash
 
 git clone https://github.com/Malware-Hunter/SF23-AMExplorer.git
 
-```
-
-
-## ✅ Step 2: Run the app or docker demo script:
-
-```
 cd SF23-AMExplorer
+
 ```
 
-Option 1 (script will install requirements in your system and run amexplorer.py app):
-```
+## Running **demo** scripts
+  
+
+
+**Option 1**: script will install requirements in your system and run amexplorer.py app
+```bash
 ./run_demo_app.sh
 
 ```
 
-Option 2: script will just download and execute the docker image sf23/amexplorer:latest from [hub.docker.com](hub.docker.com)
-```
+**Option 2**: script will just download and execute the Docker image **sf23/amexplorer:latest** from [hub.docker.com](hub.docker.com)
+```bash
 ./run_demo_docker.sh
 
 ```
 **Datasets will be generated in the directory called outputs**
   
 
-## ⚙️ Running the tool with Docker
+## Building and running your own Docker image
 
-  
 
-This guide outlines the steps to build and run the tool using Docker.
-
-  
-
-## Prerequisites
-
-  
-
-- Docker installed: [Docker Installation Instructions](https://docs.docker.com/get-docker/)
-
-- Clone the repository:
-
-```
-git clone https://github.com/Malware-Hunter/SF23-AMExplorer.git
-```
-
-- Navigate to the repository directory:
-
-```
-cd SF23-AMExplorer
-```
-
-  
-
-## ✅ Step 1: Build the Docker Image
-
-  
-
-Execute the following command to build the Docker image from the Dockerfile:
-
-  
-
+### Installing Docker and building the image
 ```bash
+
+sudo apt install docker docker.io
+
 docker  build  -t  sf23/amexplorer:latest  .
+
 ```
 
-  
-
-## ✅ Step 2: Run the Docker Container
-
-  
-
-Start an interactive terminal inside the Docker container using the following command:
-
-  
+## Starting a Docker container
 
 ```bash
-docker  run  -it  sf23/amexplorer  /bin/bash
-```
 
-  
+docker  run  -it  sf23/amexplorer
 
-## ✅ Step 3: Access the Output Directory
-
-  
-
-After the script execution, you can access the output directory using the following command:
-
-  
-
-```bash
 ls outputs
+
 ```
 
-  
-  
   
 
 ## Manual Usage
 
-  
 
 The tool can be executed from the command line, providing various parameters:
 
-  
   
   
 
