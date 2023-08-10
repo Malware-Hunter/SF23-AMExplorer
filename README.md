@@ -147,7 +147,7 @@ To generate all datasets, use the following command:
 
 ```
 
-python3 amexplorer.py --dataset-type-all --androguard-features androguard/features --androguard-metadata androguard/metadata --virustotal-metadata virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output_amexplorer
+python3 amexplorer.py --dataset-type-all --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo/androzoo_metadata.csv --output-dir output_amexplorer
 
 ```
 
@@ -163,7 +163,7 @@ To generate the dataset metadata, use the following command:
 
 ```
 
-python3 amexplorer.py --dataset-type metadata -agf androguard/features -agm androguard/metadata -vtm virustotal -azm androzoo/selected_n_1200.csv --output-dir output_amexplorer
+python3 amexplorer.py --dataset-type metadata -agf metadata/androguard/features -agm metadata/androguard/metadata -vtm metadata/virustotal -azm metadata/androzoo/androzoo_metadata.csv --output-dir output_amexplorer
 
 ```
 
@@ -175,7 +175,7 @@ OR:
 
 ```
 
-python3 amexplorer.py --dataset-type metadata --androguard-features androguard/features --androguard-metadata androguard/metadata --virustotal-metadata virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output_amexplorer
+python3 amexplorer.py --dataset-type metadata --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo/androzoo_metadata.csv --output-dir output_amexplorer
 
 ```
 
@@ -191,7 +191,7 @@ To generate the dataset with binary data, use the following command:
 
 ```
 
-python3 amexplorer.py --dataset-type binary -md output\metadata.csv -th 5 --output-dir output_amexplorer
+python3 amexplorer.py --dataset-type binary -md output_amexplorer\[file_metadata].csv -th 5 --output-dir output_amexplorer
 
 ```
 
@@ -203,7 +203,7 @@ OR:
 
 ```
 
-python3 amexplorer.py --dataset-type binary --metadata-dataset output\metadata.csv --threshold 5 --output-dir output_amexplorer
+python3 amexplorer.py --dataset-type binary --metadata-dataset output_amexplorer\[file_metadata].csv --threshold 5 --output-dir output_amexplorer
 
 ```
 
@@ -219,7 +219,7 @@ To generate the dataset with discrete data, use the following command:
 
 ```
 
-python3 amexplorer.py --dataset-type discrete -md output\metadata.csv -th 5 --output-dir output_amexplorer
+python3 amexplorer.py --dataset-type discrete -md output_amexplorer\[file_metadata].csv -th 5 --output-dir output_amexplorer
 
 ```
 
@@ -229,7 +229,7 @@ OR:
 
 ```
 
-python3 amexplorer.py --dataset-type discrete --metadata-dataset output\metadata.csv --threshold 5 --output-dir output_amexplorer
+python3 amexplorer.py --dataset-type discrete --metadata-dataset output_amexplorer\[file_metadata].csv --threshold 5 --output-dir output_amexplorer
 
 ```
 ## 🖱️ Test Environment

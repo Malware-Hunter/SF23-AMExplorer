@@ -1,0 +1,69 @@
+
+python3 amexplorer.py --dataset-type metadata --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo --output-dir output_amexplorer
+←[1m←[31m[ERROR] The file 'metadata/androzoo' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --androzoo-metadata/-azm←[0m
+
+>python3 amexplorer.py --dataset-type metadata --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo/teste.csv --output-dir output_amexplorer
+←[1m←[31m[ERROR] The file 'metadata/androzoo/teste.csv' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --androzoo-metadata/-azm←[0m
+
+python3 amexplorer.py --dataset-type metadata --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo/androzoo_metadat --output-dir output_amexplorer
+←[1m←[31m[ERROR] The file 'metadata/androzoo/androzoo_metadat' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --androzoo-metadata/-azm←[0m
+
+python3 amexplorer.py --dataset-type metadata --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo/androzoo_metadat.csv --output-dir output_amexplorer
+←[1m←[31m[ERROR] The file 'metadata/androzoo/androzoo_metadat.csv' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --androzoo-metadata/-azm←[0m
+
+python3 amexplorer.py --dataset-type metadata --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo/androzoo_metadata.csv --output-dir output_amexplorer
+Starting processing JSONs from Features Androguard...
+Starting processing JSONs from Metadata Androguard...
+Starting processing JSONs from Virustotal...
+Starting AndroZoo CSV processing...
+AndroZoo CSV processing completed.
+Processing of VirusTotal JSONs completed.
+Processing of Androguard Metadata JSONs completed.
+Processing of Androguard Features JSONs completed.
+Starting the generation of the metadata dataset...
+Dataset metadata completed in: output_amexplorer\20230810111621_metadata.csv
+
+←[1m←[31m[ERROR] The directory 'androguard/features' is invalid or not found←[0m
+←[1m←[31m[ERROR] The directory 'androguard/metadata' is invalid or not found←[0m
+←[1m←[31m[ERROR] The directory 'virustotal' is invalid or not found←[0m
+←[1m←[31m[ERROR] The file 'androzoo/selected_n_1200.csv' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --androguard-features/-agf, --androguard-metadata/-agm, --virustotal-metadata/-vtm, --androzoo-metadata/-azm←[0m
+
+C:\Users\joner\OneDrive\Documentos\GitHub\dataset-build>python3 amexplorer.py --dataset-type-all --androguard-features metadata/androguard/features --androguard-metadata androguard/metadata --virustotal-metadata virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output_amexplorer
+←[1m←[31m[ERROR] The directory 'androguard/metadata' is invalid or not found←[0m
+←[1m←[31m[ERROR] The directory 'virustotal' is invalid or not found←[0m
+←[1m←[31m[ERROR] The file 'androzoo/selected_n_1200.csv' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --androguard-metadata/-agm, --virustotal-metadata/-vtm, --androzoo-metadata/-azm←[0m
+
+C:\Users\joner\OneDrive\Documentos\GitHub\dataset-build>python3 amexplorer.py --dataset-type-all --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output_amexplorer
+←[1m←[31m[ERROR] The directory 'virustotal' is invalid or not found←[0m
+←[1m←[31m[ERROR] The file 'androzoo/selected_n_1200.csv' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --virustotal-metadata/-vtm, --androzoo-metadata/-azm←[0m
+
+C:\Users\joner\OneDrive\Documentos\GitHub\dataset-build>python3 amexplorer.py --dataset-type-all --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata androzoo/selected_n_1200.csv --output-dir output_amexplorer
+←[1m←[31m[ERROR] The file 'androzoo/selected_n_1200.csv' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --androzoo-metadata/-azm←[0m
+
+C:\Users\joner\OneDrive\Documentos\GitHub\dataset-build>python3 amexplorer.py --dataset-type-all --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo/selected_n_1200.csv --output-dir output_amexplorer
+←[1m←[31m[ERROR] The file 'metadata/androzoo/selected_n_1200.csv' is invalid or not found←[0m
+←[1m←[31m[ERROR] The following paths are missing or incorrect: --androzoo-metadata/-azm←[0m
+
+C:\Users\joner\OneDrive\Documentos\GitHub\dataset-build>python3 amexplorer.py --dataset-type-all --androguard-features metadata/androguard/features --androguard-metadata metadata/androguard/metadata --virustotal-metadata metadata/virustotal --androzoo-metadata metadata/androzoo/androzoo_metadata.csv --output-dir output_amexplorer
+Starting processing JSONs from Features Androguard...
+Starting processing JSONs from Metadata Androguard...
+Starting processing JSONs from Virustotal...
+Starting AndroZoo CSV processing...
+AndroZoo CSV processing completed.
+Processing of Androguard Metadata JSONs completed.
+Processing of VirusTotal JSONs completed.
+Processing of Androguard Features JSONs completed.
+Starting the generation of the metadata dataset...
+Dataset metadata completed in: output_amexplorer\20230810110026_metadata.csv
+Starting the generation of datasets with binary data...
+Dataset with binary data completed in: output_amexplorer\20230810110026_binary.csv
+Starting the generation of datasets with discrete data...
+Dataset with discrete data completed in: output_amexplorer\20230810110026_discrete.csv
