@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+### JSON/CSV/APK/ZIP Files ###
+*.json
+*.csv
+*.apk
+*.zip
+*.log
+*.que
